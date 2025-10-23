@@ -1,0 +1,1508 @@
+customer_id,product,category,quantity,unit_price,order_date,region,payment_method
+CUST_13791,Sofa,Home & Garden,1,577.13,2025-10-22,North America,Digital Wallet
+CUST_56460,Children Book,Books,1,20.79,2025-10-22,Latin America,Credit Card
+CUST_9948,Pen Set,Office Supplies,1,40.73,2025-10-22,Middle East,Bank Transfer
+CUST_39365,Calculator,Office Supplies,2,70.42,2025-10-22,Middle East,Debit Card
+CUST_73559,Dress,Clothing,1,149.93,2025-10-22,Middle East,Digital Wallet
+CUST_31118,Lamp,Home & Garden,3,503.01,2025-10-22,Asia Pacific,PayPal
+CUST_77104,Biography,Books,2,38.87,2025-10-22,Europe,Digital Wallet
+CUST_65351,Magazine,Books,1,48.42,2025-10-22,Asia Pacific,Bank Transfer
+CUST_78112,Chocolate,Food & Beverages,2,20.28,2025-10-22,Latin America,PayPal
+CUST_56004,TV,Electronics,1,904.53,2025-10-22,Europe,Bank Transfer
+CUST_73423,Shoes,Clothing,4,216.16,2025-10-22,Asia Pacific,Debit Card
+CUST_22406,Cookbook,Books,3,36.72,2025-10-22,Latin America,Bank Transfer
+CUST_24431,Notebook,Office Supplies,1,38.3,2025-10-21,Asia Pacific,Credit Card
+CUST_30713,Pen Set,Office Supplies,2,58.8,2025-10-21,Africa,Digital Wallet
+CUST_35298,Running Shoes,Sports & Outdoors,1,471.4,2025-10-21,Europe,Bank Transfer
+CUST_93037,Energy Drink,Food & Beverages,5,14.48,2025-10-21,Latin America,PayPal
+CUST_22454,Jacket,Clothing,1,269.83,2025-10-21,Latin America,PayPal
+CUST_31862,Desk Organizer,Office Supplies,1,18.79,2025-10-21,Europe,Cash
+CUST_2563,Smart Watch,Electronics,1,1893.58,2025-10-21,Asia Pacific,Debit Card
+CUST_53976,Toy Car,Toys & Games,1,97.13,2025-10-21,Europe,Digital Wallet
+CUST_91914,Tablet,Electronics,6,621.9,2025-10-21,Asia Pacific,Bank Transfer
+CUST_96570,Spices,Food & Beverages,1,8.57,2025-10-21,Latin America,PayPal
+CUST_80006,Headphones,Electronics,4,1257.29,2025-10-21,Europe,Credit Card
+CUST_11310,Hair Dryer,Health & Beauty,6,67.84,2025-10-20,Middle East,Digital Wallet
+CUST_21028,Lamp,Home & Garden,2,321.85,2025-10-20,Africa,Debit Card
+CUST_67500,Camera,Electronics,4,352.59,2025-10-20,Asia Pacific,Digital Wallet
+CUST_85649,Puzzle,Toys & Games,2,80.77,2025-10-20,Latin America,Cash
+CUST_42553,Yoga Mat,Sports & Outdoors,2,199.9,2025-10-20,Asia Pacific,PayPal
+CUST_3314,Desk Organizer,Office Supplies,4,92.55,2025-10-20,Latin America,Debit Card
+CUST_90887,Table,Home & Garden,1,347.18,2025-10-20,Africa,Credit Card
+CUST_95180,Desk Organizer,Office Supplies,2,52.06,2025-10-20,Europe,Debit Card
+CUST_99444,Tire,Automotive,1,438.51,2025-10-20,Middle East,Digital Wallet
+CUST_13615,Kitchen Set,Home & Garden,3,318.39,2025-10-20,Asia Pacific,Cash
+CUST_56380,Tennis Racket,Sports & Outdoors,5,253.96,2025-10-20,Europe,Bank Transfer
+CUST_7113,Fiction Novel,Books,3,55.2,2025-10-19,Africa,Digital Wallet
+CUST_99794,Water Bottle,Sports & Outdoors,1,333.94,2025-10-19,Europe,Digital Wallet
+CUST_17284,Chair,Home & Garden,4,107.5,2025-10-19,North America,PayPal
+CUST_78150,Gaming Console,Electronics,2,1581.93,2025-10-19,Middle East,Digital Wallet
+CUST_6828,Yoga Mat,Sports & Outdoors,5,38.08,2025-10-19,Asia Pacific,Cash
+CUST_24496,Toy Car,Toys & Games,9,188.67,2025-10-19,North America,Credit Card
+CUST_90268,T-Shirt,Clothing,1,288.63,2025-10-19,Middle East,Bank Transfer
+CUST_66488,Table,Home & Garden,3,507.57,2025-10-19,Middle East,Debit Card
+CUST_27805,Water Bottle,Sports & Outdoors,1,310.11,2025-10-19,Latin America,Debit Card
+CUST_6492,Running Shoes,Sports & Outdoors,3,399.73,2025-10-19,Asia Pacific,PayPal
+CUST_92608,Gaming Console,Electronics,1,1017.48,2025-10-19,Latin America,Credit Card
+CUST_95028,Lamp,Home & Garden,1,201.96,2025-10-18,Latin America,Debit Card
+CUST_11303,Skincare Set,Health & Beauty,1,17.99,2025-10-18,Latin America,Digital Wallet
+CUST_15433,Tablet,Electronics,1,767.61,2025-10-18,Europe,Cash
+CUST_94253,Cookbook,Books,1,58.42,2025-10-18,Europe,Digital Wallet
+CUST_25532,TV,Electronics,1,1428.81,2025-10-18,North America,Cash
+CUST_33325,Printer Paper,Office Supplies,1,21.01,2025-10-18,Africa,Debit Card
+CUST_58178,Building Blocks,Toys & Games,3,115.45,2025-10-18,Middle East,Credit Card
+CUST_45634,Lamp,Home & Garden,4,221.87,2025-10-18,Asia Pacific,Credit Card
+CUST_14406,T-Shirt,Clothing,3,146.15,2025-10-18,Middle East,Credit Card
+CUST_35066,Table,Home & Garden,2,423.87,2025-10-18,Asia Pacific,PayPal
+CUST_77554,Smartphone,Electronics,1,1109.28,2025-10-18,Asia Pacific,Debit Card
+CUST_27350,Textbook,Books,2,52.19,2025-10-18,Europe,Bank Transfer
+CUST_63601,Biography,Books,1,40.61,2025-10-18,Asia Pacific,Debit Card
+CUST_98383,Skincare Set,Health & Beauty,1,138.52,2025-10-18,Middle East,Debit Card
+CUST_94921,Tea,Food & Beverages,2,35.05,2025-10-18,Middle East,Cash
+CUST_25182,Bedding,Home & Garden,5,226.82,2025-10-18,Europe,Cash
+CUST_31961,Board Game,Toys & Games,1,174.68,2025-10-17,Latin America,Credit Card
+CUST_41102,Organic Food,Food & Beverages,7,34.87,2025-10-17,Asia Pacific,Bank Transfer
+CUST_19327,Perfume,Health & Beauty,8,52.66,2025-10-17,Europe,PayPal
+CUST_19271,Pen Set,Office Supplies,2,67.46,2025-10-17,Latin America,Digital Wallet
+CUST_47551,Makeup Kit,Health & Beauty,1,21.61,2025-10-17,Europe,Digital Wallet
+CUST_86974,Car Parts,Automotive,4,155.42,2025-10-17,Latin America,Bank Transfer
+CUST_22452,TV,Electronics,3,1617.47,2025-10-17,Africa,Bank Transfer
+CUST_16314,Organic Food,Food & Beverages,4,11.38,2025-10-17,Asia Pacific,Credit Card
+CUST_68357,Smartphone,Electronics,2,1352.05,2025-10-17,Latin America,Cash
+CUST_58290,Hat,Clothing,6,30.3,2025-10-17,Europe,Credit Card
+CUST_60500,Car Charger,Automotive,2,567.11,2025-10-17,Latin America,Bank Transfer
+CUST_92424,Stapler,Office Supplies,2,36.64,2025-10-17,Latin America,Credit Card
+CUST_98448,Puzzle,Toys & Games,1,91.9,2025-10-17,Africa,Cash
+CUST_1495,Tea,Food & Beverages,1,10.59,2025-10-17,Africa,Bank Transfer
+CUST_85332,Organic Food,Food & Beverages,4,9.98,2025-10-16,Europe,PayPal
+CUST_73102,Tea,Food & Beverages,2,35.68,2025-10-16,North America,Digital Wallet
+CUST_4268,GPS Device,Automotive,1,653.2,2025-10-16,Africa,Debit Card
+CUST_54155,Car Parts,Automotive,1,978.48,2025-10-16,Middle East,Debit Card
+CUST_76152,Car Charger,Automotive,2,285.79,2025-10-16,North America,Digital Wallet
+CUST_57625,Bicycle,Sports & Outdoors,1,131.37,2025-10-16,Latin America,PayPal
+CUST_84606,Toy Car,Toys & Games,2,95.31,2025-10-16,Asia Pacific,Cash
+CUST_46510,Shampoo,Health & Beauty,4,45.19,2025-10-16,Europe,Digital Wallet
+CUST_3962,Motor Oil,Automotive,1,394.55,2025-10-16,Europe,Digital Wallet
+CUST_66237,Face Mask,Health & Beauty,1,59.89,2025-10-16,North America,PayPal
+CUST_64380,Children Book,Books,2,15.37,2025-10-15,Africa,Credit Card
+CUST_8266,Car Accessories,Automotive,1,525.46,2025-10-15,Latin America,Cash
+CUST_72072,Fiction Novel,Books,2,75.9,2025-10-15,Europe,Debit Card
+CUST_93494,Self-Help Book,Books,1,69.27,2025-10-15,Latin America,Digital Wallet
+CUST_13193,Tablet,Electronics,1,1437.72,2025-10-15,North America,Debit Card
+CUST_67459,Shoes,Clothing,2,102.13,2025-10-15,Latin America,Bank Transfer
+CUST_70737,TV,Electronics,2,1514.27,2025-10-15,North America,Cash
+CUST_3553,Bedding,Home & Garden,5,619.46,2025-10-15,Africa,Debit Card
+CUST_60195,Car Charger,Automotive,2,350.12,2025-10-15,North America,Cash
+CUST_95001,Children Book,Books,1,12.75,2025-10-15,Europe,Cash
+CUST_84581,Tea,Food & Beverages,1,35.79,2025-10-15,Middle East,PayPal
+CUST_64877,Smartphone,Electronics,1,354.49,2025-10-15,Asia Pacific,Cash
+CUST_61398,Plant Pot,Home & Garden,2,387.95,2025-10-15,Asia Pacific,PayPal
+CUST_68914,Gym Equipment,Sports & Outdoors,4,126.57,2025-10-15,Middle East,Digital Wallet
+CUST_77125,Laptop,Electronics,3,1236.98,2025-10-14,Middle East,Debit Card
+CUST_43813,Camera,Electronics,3,1282.03,2025-10-14,Europe,PayPal
+CUST_65396,Snacks,Food & Beverages,1,38.05,2025-10-14,Africa,Digital Wallet
+CUST_29535,Desk Organizer,Office Supplies,3,73.25,2025-10-14,Asia Pacific,Digital Wallet
+CUST_93500,Backpack,Sports & Outdoors,1,175.39,2025-10-14,Latin America,Bank Transfer
+CUST_73305,Car Parts,Automotive,5,36.41,2025-10-14,Latin America,Credit Card
+CUST_48170,Chair,Home & Garden,2,44.79,2025-10-14,Latin America,Bank Transfer
+CUST_66707,Smart Watch,Electronics,1,508.49,2025-10-14,Middle East,Digital Wallet
+CUST_12421,Shoes,Clothing,5,285.86,2025-10-14,North America,PayPal
+CUST_83306,Dress,Clothing,5,286.12,2025-10-14,Latin America,Bank Transfer
+CUST_3787,Desk Organizer,Office Supplies,4,25.93,2025-10-14,Asia Pacific,Credit Card
+CUST_88177,Hat,Clothing,6,136.63,2025-10-14,Asia Pacific,PayPal
+CUST_42307,Desk Organizer,Office Supplies,7,93.55,2025-10-14,Middle East,PayPal
+CUST_4930,Puzzle,Toys & Games,1,63.67,2025-10-14,Asia Pacific,Bank Transfer
+CUST_70503,Magazine,Books,1,30.95,2025-10-14,Middle East,PayPal
+CUST_69746,Textbook,Books,1,22.47,2025-10-13,North America,Digital Wallet
+CUST_85200,Curtains,Home & Garden,2,278.97,2025-10-13,Latin America,Credit Card
+CUST_27230,Building Blocks,,2,24.78,2025-10-13,Middle East,Credit Card
+CUST_6932,Tennis Racket,Sports & Outdoors,3,139.7,2025-10-13,North America,Debit Card
+CUST_22001,Jacket,Clothing,1,99.77,2025-10-13,Latin America,Digital Wallet
+CUST_40848,Makeup Kit,Health & Beauty,2,112.76,2025-10-13,Middle East,Debit Card
+CUST_99821,Bedding,Home & Garden,3,163.55,2025-10-12,Latin America,Bank Transfer
+CUST_7512,GPS Device,Automotive,2,453.91,2025-10-12,Asia Pacific,PayPal
+CUST_79624,Bedding,Home & Garden,1,169.63,2025-10-12,North America,Debit Card
+CUST_76582,Shoes,Clothing,1,218.01,2025-10-12,Africa,Credit Card
+CUST_6890,Notebook,Office Supplies,2,19.55,2025-10-12,Asia Pacific,
+CUST_59631,Spices,Food & Beverages,8,23.61,2025-10-12,Asia Pacific,Cash
+CUST_83329,Running Shoes,Sports & Outdoors,2,113.2,2025-10-12,Middle East,Credit Card
+CUST_52882,Car Charger,Automotive,4,74.59,2025-10-12,Asia Pacific,Bank Transfer
+CUST_55968,Shoes,Clothing,1,161.36,2025-10-12,North America,Cash
+CUST_55460,T-Shirt,Clothing,1,180.4,2025-10-12,Latin America,Digital Wallet
+CUST_40221,Building Blocks,Toys & Games,1,150.99,2025-10-12,Middle East,PayPal
+CUST_47124,Notebook,Office Supplies,1,12.76,2025-10-12,North America,PayPal
+CUST_94603,Fiction Novel,Books,3,30.13,2025-10-12,North America,PayPal
+CUST_28325,Tablet,Electronics,1,1381.1,2025-10-12,Europe,Credit Card
+CUST_58074,Vitamins,Health & Beauty,1,29.82,2025-10-11,Middle East,Bank Transfer
+CUST_15993,Yoga Mat,Sports & Outdoors,1,247.31,2025-10-11,Middle East,Debit Card
+CUST_90135,Printer Paper,Office Supplies,5,71.65,2025-10-11,North America,Bank Transfer
+CUST_28853,Tea,Food & Beverages,1,19.58,2025-10-11,Africa,PayPal
+CUST_35620,Snacks,Food & Beverages,2,44.51,2025-10-11,Latin America,Digital Wallet
+CUST_19152,Running Shoes,Sports & Outdoors,6,124.97,2025-10-11,,Credit Card
+CUST_84354,Headphones,Electronics,4,1106.01,2025-10-11,Africa,Credit Card
+CUST_54600,Desk Organizer,Office Supplies,2,20.47,2025-10-11,Europe,Debit Card
+CUST_16768,Doll,Toys & Games,3,72.77,2025-10-11,Africa,Digital Wallet
+CUST_31451,T-Shirt,Clothing,2,263.46,2025-10-10,Middle East,Digital Wallet
+CUST_93323,Spices,Food & Beverages,1,43.29,2025-10-10,Europe,Credit Card
+CUST_74551,Backpack,Sports & Outdoors,2,86.49,2025-10-10,North America,PayPal
+CUST_39202,Table,Home & Garden,2,586.56,2025-10-10,Africa,Debit Card
+CUST_46436,Action Figure,Toys & Games,2,18.33,2025-10-10,Middle East,Credit Card
+CUST_22478,Doll,Toys & Games,2,169.83,2025-10-10,Latin America,Credit Card
+CUST_92765,Puzzle,Toys & Games,6,154.44,2025-10-10,Europe,Digital Wallet
+CUST_87508,Children Book,Books,3,20.65,2025-10-10,Middle East,Credit Card
+CUST_74895,Organic Food,Food & Beverages,2,46.54,2025-10-10,Africa,Debit Card
+CUST_99171,Energy Drink,Food & Beverages,3,11.47,2025-10-10,Latin America,Digital Wallet
+CUST_4035,Smart Watch,Electronics,6,1985.29,2025-10-10,Africa,Debit Card
+CUST_64991,Magazine,Books,1,73.08,2025-10-10,Asia Pacific,Cash
+CUST_21932,Action Figure,Toys & Games,7,192.98,2025-10-10,Asia Pacific,Cash
+CUST_50601,Board Game,Toys & Games,2,114.81,2025-10-09,Middle East,Bank Transfer
+CUST_18146,Smartphone,Electronics,2,700.44,2025-10-09,Africa,PayPal
+CUST_67039,Energy Drink,Food & Beverages,2,9.91,2025-10-09,Europe,Cash
+CUST_1723,Headphones,Electronics,1,1286.32,2025-10-09,Middle East,Debit Card
+CUST_25863,Doll,Toys & Games,2,120.78,2025-10-09,Latin America,PayPal
+CUST_56046,Tennis Racket,Sports & Outdoors,4,121.17,2025-10-09,Asia Pacific,Credit Card
+CUST_56591,Plant Pot,Home & Garden,1,423.72,2025-10-09,Africa,Bank Transfer
+CUST_53889,Tablet,Electronics,2,1728.71,2025-10-09,Europe,Debit Card
+CUST_95735,Cookbook,Books,1,28.48,2025-10-09,Middle East,Bank Transfer
+CUST_78883,Car Charger,Automotive,1,956.55,2025-10-09,Africa,Credit Card
+CUST_39326,Hat,Clothing,4,210.69,2025-10-09,Middle East,Debit Card
+CUST_18836,Doll,Toys & Games,2,53.35,2025-10-09,Middle East,Credit Card
+CUST_35006,Tea,Food & Beverages,1,35.13,2025-10-09,Europe,Credit Card
+CUST_13736,Bedding,Home & Garden,2,663.21,2025-10-09,Europe,Bank Transfer
+CUST_8125,Biography,Books,5,37.04,2025-10-09,Africa,Cash
+CUST_67207,Cookbook,Books,1,67.65,2025-10-08,Latin America,Digital Wallet
+CUST_10288,Car Accessories,Automotive,1,636.71,2025-10-08,Middle East,Credit Card
+CUST_4308,Spices,Food & Beverages,1,13.4,2025-10-08,Asia Pacific,Credit Card
+CUST_23044,Plant Pot,Home & Garden,1,443.84,2025-10-08,Europe,Cash
+CUST_54613,Smart Watch,Electronics,3,1490.03,2025-10-08,Asia Pacific,Bank Transfer
+CUST_12536,Spices,Food & Beverages,2,8.03,2025-10-08,Europe,Bank Transfer
+CUST_74355,Gaming Console,Electronics,1,1762.7,2025-10-08,North America,Credit Card
+CUST_19328,Sofa,Home & Garden,3,313.64,2025-10-08,Africa,Credit Card
+CUST_92160,Lamp,Home & Garden,1,310.73,2025-10-08,Asia Pacific,Credit Card
+CUST_38940,Yoga Mat,Sports & Outdoors,1,419.5,2025-10-08,Middle East,Bank Transfer
+CUST_25042,Coffee,Food & Beverages,2,18.85,2025-10-08,Africa,Debit Card
+CUST_23326,Desk Organizer,Office Supplies,2,29.18,2025-10-08,Europe,Cash
+CUST_57998,Self-Help Book,Books,3,74.21,2025-10-08,Middle East,Debit Card
+CUST_75069,Yoga Mat,Sports & Outdoors,4,358.42,2025-10-08,Latin America,Credit Card
+CUST_82639,Vitamins,Health & Beauty,5,52.36,2025-10-07,Middle East,Cash
+CUST_85958,T-Shirt,Clothing,1,112.04,2025-10-07,North America,Debit Card
+CUST_36291,Chocolate,Food & Beverages,3,30.92,2025-10-07,Latin America,Debit Card
+CUST_73789,Shoes,Clothing,3,244.16,2025-10-07,Latin America,Bank Transfer
+CUST_55450,Gaming Console,Electronics,5,307.29,2025-10-07,Latin America,Cash
+CUST_17040,Kitchen Set,Home & Garden,4,395.99,2025-10-07,Africa,Credit Card
+CUST_65479,Hair Dryer,Health & Beauty,1,65.56,2025-10-07,Middle East,Cash
+CUST_36312,Tennis Racket,Sports & Outdoors,3,91.65,2025-10-07,Middle East,Debit Card
+CUST_21776,Action Figure,Toys & Games,1,17.26,2025-10-07,Middle East,Debit Card
+CUST_18818,Tire,Automotive,4,698.16,2025-10-07,Latin America,Debit Card
+CUST_11492,Laptop,Electronics,1,1486.2,2025-10-07,Africa,Cash
+CUST_60524,GPS Device,Automotive,1,427.69,2025-10-07,Asia Pacific,Digital Wallet
+CUST_27585,Action Figure,Toys & Games,2,151.56,2025-10-07,Europe,Credit Card
+CUST_69969,Doll,Toys & Games,4,30.89,2025-10-06,Latin America,Cash
+CUST_48014,Hair Dryer,Health & Beauty,4,32.21,2025-10-06,Middle East,Debit Card
+CUST_65260,Doll,Toys & Games,1,140.99,2025-10-06,Africa,Bank Transfer
+CUST_53478,Notebook,Office Supplies,6,70.28,2025-10-06,Latin America,Bank Transfer
+CUST_82735,Skincare Set,Health & Beauty,3,105.18,2025-10-06,North America,Cash
+CUST_73179,Biography,Books,1,38.84,2025-10-06,Latin America,Credit Card
+CUST_35377,Kitchen Set,Home & Garden,5,333.84,2025-10-06,Asia Pacific,Credit Card
+CUST_67575,Headphones,Electronics,4,1676.37,2025-10-06,Africa,Credit Card
+CUST_49572,Running Shoes,Sports & Outdoors,4,322.23,2025-10-06,Asia Pacific,Cash
+CUST_81295,Yoga Mat,Sports & Outdoors,3,240.12,2025-10-06,,Bank Transfer
+CUST_26546,Sofa,Home & Garden,1,689.93,2025-10-06,Asia Pacific,Bank Transfer
+CUST_9006,Hair Dryer,Health & Beauty,2,27.51,2025-10-06,Europe,Debit Card
+CUST_24183,Stapler,Office Supplies,2,18.45,2025-10-06,Middle East,Debit Card
+CUST_40925,Tea,Food & Beverages,2,36.93,2025-10-06,Africa,Bank Transfer
+CUST_11308,Notebook,Office Supplies,3,13.6,2025-10-06,Asia Pacific,Bank Transfer
+CUST_40176,Hair Dryer,Health & Beauty,1,90.32,2025-10-05,Latin America,Bank Transfer
+CUST_61087,Backpack,Sports & Outdoors,1,457.0,2025-10-05,Latin America,Debit Card
+CUST_28299,Building Blocks,Toys & Games,7,181.81,2025-10-05,Asia Pacific,Digital Wallet
+CUST_20001,Pen Set,Office Supplies,1,75.44,2025-10-05,Africa,Cash
+CUST_68552,Lamp,Home & Garden,3,596.15,2025-10-05,Africa,Cash
+CUST_24920,Jeans,Clothing,1,276.63,2025-10-05,Africa,Credit Card
+CUST_48386,Magazine,Books,2,43.33,2025-10-05,Asia Pacific,PayPal
+CUST_54754,Chocolate,Food & Beverages,5,13.45,2025-10-05,Europe,Debit Card
+CUST_66976,Jeans,Clothing,2,121.17,2025-10-05,Asia Pacific,Cash
+CUST_94454,Cookbook,Books,1,13.4,2025-10-05,Middle East,Cash
+CUST_71390,Tea,Food & Beverages,1,23.72,2025-10-05,Latin America,Credit Card
+CUST_26380,Backpack,Sports & Outdoors,1,284.26,2025-10-05,Middle East,Debit Card
+CUST_49139,Building Blocks,Toys & Games,1,149.11,2025-10-05,Middle East,Bank Transfer
+CUST_57675,Spices,Food & Beverages,1,36.17,2025-10-05,North America,Bank Transfer
+CUST_23045,Shoes,Clothing,1,97.7,2025-10-05,Asia Pacific,Cash
+CUST_51307,Gaming Console,Electronics,2,1780.79,2025-10-05,Asia Pacific,Cash
+CUST_56666,Desk Organizer,Office Supplies,2,14.91,2025-10-04,Africa,Bank Transfer
+CUST_76063,Tablet,Electronics,3,275.43,2025-10-04,Middle East,Debit Card
+CUST_95750,Smart Watch,Electronics,2,429.18,2025-10-04,Latin America,Cash
+CUST_84126,Makeup Kit,Health & Beauty,1,80.58,2025-10-04,Middle East,Credit Card
+CUST_42426,Self-Help Book,Books,2,45.31,2025-10-04,North America,Credit Card
+CUST_13330,Shampoo,Health & Beauty,1,88.27,2025-10-04,Africa,Debit Card
+CUST_76740,Toy Car,Toys & Games,1,21.7,2025-10-04,Latin America,Debit Card
+CUST_61319,Action Figure,Toys & Games,1,62.2,2025-10-04,Asia Pacific,Digital Wallet
+CUST_7524,Notebook,Office Supplies,2,94.0,2025-10-04,North America,Digital Wallet
+CUST_21787,Hat,Clothing,1,106.04,2025-10-04,Africa,Digital Wallet
+CUST_83926,Yoga Mat,Sports & Outdoors,1,483.43,2025-10-04,Middle East,Debit Card
+CUST_74649,Video Game,Toys & Games,7,132.72,2025-10-03,Latin America,Debit Card
+CUST_58854,Action Figure,Toys & Games,1,173.8,2025-10-03,Asia Pacific,Bank Transfer
+CUST_39734,Toy Car,Toys & Games,1,34.08,2025-10-03,Europe,PayPal
+CUST_22440,Jeans,Clothing,1,201.92,2025-10-03,Middle East,
+CUST_14268,Tire,,1,204.5,2025-10-03,Africa,PayPal
+CUST_85948,Pen Set,Office Supplies,2,91.06,2025-10-03,Europe,Digital Wallet
+CUST_41037,Video Game,Toys & Games,1,20.65,2025-10-03,Africa,Debit Card
+CUST_26613,Children Book,Books,2,48.11,2025-10-03,Europe,Debit Card
+CUST_16525,Fiction Novel,Books,2,79.57,2025-10-03,Middle East,Bank Transfer
+CUST_39734,Toy Car,Toys & Games,1,34.08,2025-10-03,Europe,PayPal
+CUST_51706,Coffee,Food & Beverages,1,8.32,2025-10-03,Africa,Bank Transfer
+CUST_73781,Gym Equipment,Sports & Outdoors,4,324.6,2025-10-03,Middle East,PayPal
+CUST_68472,Notebook,Office Supplies,2,6.17,2025-10-03,Africa,Digital Wallet
+CUST_92806,Car Parts,Automotive,3,401.67,2025-10-03,Latin America,Debit Card
+CUST_18459,Car Parts,Automotive,1,40.01,2025-10-02,Asia Pacific,Digital Wallet
+CUST_1085,Snacks,Food & Beverages,1,35.67,2025-10-02,Latin America,Digital Wallet
+CUST_44857,Dress,Clothing,1,199.42,2025-10-02,Europe,Credit Card
+CUST_74763,Headphones,Electronics,5,329.34,2025-10-02,North America,Cash
+CUST_36509,Shampoo,Health & Beauty,3,107.81,2025-10-02,Asia Pacific,PayPal
+CUST_21431,Stapler,Office Supplies,1,45.04,2025-10-02,Latin America,Credit Card
+CUST_26377,Stapler,Office Supplies,4,9.55,2025-10-02,Middle East,Debit Card
+CUST_56868,Yoga Mat,Sports & Outdoors,2,263.56,2025-10-02,Africa,Bank Transfer
+CUST_3841,Curtains,Home & Garden,1,286.42,2025-10-02,Latin America,Bank Transfer
+CUST_91577,Table,Home & Garden,1,326.49,2025-10-02,Europe,Bank Transfer
+CUST_78641,Perfume,Health & Beauty,1,119.36,2025-10-02,Middle East,PayPal
+CUST_31714,Tea,Food & Beverages,5,47.25,2025-10-02,North America,Credit Card
+CUST_60043,Hair Dryer,Health & Beauty,1,98.68,2025-10-02,Africa,PayPal
+CUST_17962,Smartphone,Electronics,1,238.19,2025-10-02,Latin America,Cash
+CUST_59429,Vitamins,Health & Beauty,1,133.76,2025-10-02,Middle East,Digital Wallet
+CUST_81488,Running Shoes,Sports & Outdoors,1,429.6,2025-10-01,Asia Pacific,Cash
+CUST_16647,Action Figure,Toys & Games,1,160.73,2025-10-01,Europe,Credit Card
+CUST_75447,Tea,Food & Beverages,2,47.82,2025-10-01,Europe,Debit Card
+CUST_26762,Action Figure,Toys & Games,1,33.47,2025-10-01,North America,Credit Card
+CUST_31939,Tea,Food & Beverages,3,21.27,2025-10-01,Europe,Credit Card
+CUST_5877,Board Game,Toys & Games,1,38.28,2025-10-01,Asia Pacific,Bank Transfer
+CUST_36783,Building Blocks,Toys & Games,1,23.37,2025-10-01,Middle East,Bank Transfer
+CUST_41048,Organic Food,Food & Beverages,1,37.71,2025-10-01,North America,Debit Card
+CUST_54895,Shorts,Clothing,2,122.52,2025-10-01,Asia Pacific,PayPal
+CUST_62634,Textbook,Books,2,37.5,2025-10-01,North America,Cash
+CUST_59861,Stapler,Office Supplies,4,48.66,2025-09-30,Africa,Cash
+CUST_91855,Jeans,Clothing,4,68.86,2025-09-30,Asia Pacific,Credit Card
+CUST_72842,Energy Drink,Food & Beverages,1,7.4,2025-09-30,North America,Credit Card
+CUST_38294,Pen Set,Office Supplies,1,36.98,2025-09-30,Africa,Digital Wallet
+CUST_93279,Shampoo,Health & Beauty,4,86.47,2025-09-30,Latin America,Debit Card
+CUST_34246,Printer Paper,Office Supplies,1,10.15,2025-09-30,Africa,Bank Transfer
+CUST_84755,Vitamins,Health & Beauty,2,144.6,2025-09-30,Asia Pacific,Credit Card
+CUST_23515,Lamp,Home & Garden,1,618.96,2025-09-30,Europe,Cash
+CUST_50593,Dress,Clothing,1,224.09,2025-09-30,Africa,Digital Wallet
+CUST_37491,Self-Help Book,Books,4,23.51,2025-09-30,Middle East,Debit Card
+CUST_39073,Cookbook,Books,6,38.51,2025-09-30,North America,Debit Card
+CUST_81269,Curtains,Home & Garden,2,48.26,2025-09-29,Europe,Cash
+CUST_10593,Hat,Clothing,7,58.29,2025-09-29,Europe,Debit Card
+CUST_1017,Shoes,Clothing,1,211.29,2025-09-29,North America,Bank Transfer
+CUST_69025,Energy Drink,Food & Beverages,1,39.19,2025-09-29,Latin America,Credit Card
+CUST_52936,Bedding,Home & Garden,2,154.78,2025-09-29,North America,Cash
+CUST_91128,Plant Pot,Home & Garden,2,160.88,2025-09-29,Asia Pacific,Digital Wallet
+CUST_20119,Motor Oil,Automotive,3,613.42,2025-09-29,Africa,Digital Wallet
+CUST_9496,Desk Organizer,Office Supplies,1,46.5,2025-09-29,Europe,Cash
+CUST_28462,Tea,Food & Beverages,1,27.68,2025-09-29,North America,Cash
+CUST_11030,Curtains,Home & Garden,4,693.04,2025-09-29,North America,Cash
+CUST_53029,Plant Pot,Home & Garden,1,74.94,2025-09-29,Africa,Debit Card
+CUST_51841,Children Book,Books,1,32.91,2025-09-29,Europe,Credit Card
+CUST_31199,Bicycle,Sports & Outdoors,2,181.48,2025-09-29,Middle East,Digital Wallet
+CUST_58667,Pen Set,Office Supplies,6,93.69,2025-09-29,Latin America,Bank Transfer
+cust_11959,Spices,Food & Beverages,1,15.36,2025-09-29,Middle East,Digital Wallet
+CUST_57773,Water Bottle,Sports & Outdoors,1,424.05,2025-09-28,Africa,Cash
+CUST_4262,Car Parts,Automotive,2,443.4,2025-09-28,Latin America,PayPal
+CUST_81939,Shoes,Clothing,1,22.07,2025-09-28,Europe,
+CUST_35875,Magazine,Books,1,61.63,2025-09-28,Latin America,PayPal
+CUST_19070,Kitchen Set,Home & Garden,1,349.14,2025-09-28,Middle East,Bank Transfer
+CUST_68844,Smart Watch,Electronics,4,1211.74,2025-09-28,Europe,PayPal
+CUST_55772,Car Charger,Automotive,3,60.31,2025-09-28,Europe,Bank Transfer
+CUST_37231,Car Charger,Automotive,2,669.55,2025-09-28,North America,Debit Card
+CUST_6836,Coffee,Food & Beverages,1,5.95,2025-09-28,North America,Cash
+CUST_77607,Car Accessories,Automotive,1,905.06,2025-09-28,Asia Pacific,Debit Card
+CUST_34330,Sofa,Home & Garden,5,191.99,2025-09-27,Latin America,Digital Wallet
+CUST_27224,Camera,Electronics,3,1717.72,2025-09-27,Middle East,Debit Card
+CUST_22030,Backpack,Sports & Outdoors,2,185.59,2025-09-27,Africa,PayPal
+CUST_93280,Gaming Console,Electronics,1,1634.13,2025-09-27,Middle East,Bank Transfer
+CUST_33669,Smartphone,Electronics,2,754.91,2025-09-27,North America,Digital Wallet
+CUST_11352,Yoga Mat,Sports & Outdoors,2,413.98,2025-09-27,North America,Credit Card
+CUST_11428,Doll,Toys & Games,1,53.01,2025-09-27,Middle East,Bank Transfer
+CUST_8860,Chocolate,Food & Beverages,2,22.47,2025-09-27,North America,Cash
+CUST_90120,Tennis Racket,Sports & Outdoors,2,160.03,2025-09-27,Asia Pacific,Credit Card
+CUST_6430,Bicycle,Sports & Outdoors,1,364.57,2025-09-27,Europe,Cash
+CUST_96594,Curtains,Home & Garden,2,549.9,2025-09-27,Africa,PayPal
+CUST_72057,Toy Car,Toys & Games,2,144.25,2025-09-27,Latin America,Cash
+CUST_4212,Shoes,Clothing,2,40.02,2025-09-27,Asia Pacific,Digital Wallet
+CUST_24992,Jacket,Clothing,2,102.03,2025-09-26,Asia Pacific,Digital Wallet
+CUST_81995,Water Bottle,Sports & Outdoors,2,103.76,2025-09-26,Africa,Credit Card
+CUST_26938,Video Game,Toys & Games,7,21.03,2025-09-26,Europe,Credit Card
+CUST_41083,Motor Oil,Automotive,1,98.22,2025-09-26,Middle East,Debit Card
+CUST_16951,Energy Drink,Food & Beverages,3,37.6,2025-09-26,Europe,Debit Card
+CUST_69929,Makeup Kit,Health & Beauty,4,120.63,2025-09-26,Africa,Debit Card
+CUST_11384,Car Accessories,Automotive,1,626.89,2025-09-26,North America,PayPal
+CUST_35543,Table,Home & Garden,1,621.06,2025-09-26,North America,Bank Transfer
+CUST_16653,Chair,Home & Garden,3,89.19,2025-09-26,North America,Bank Transfer
+CUST_11457,Desk Organizer,Office Supplies,1,83.93,2025-09-26,Asia Pacific,PayPal
+CUST_67787,Car Parts,,2,339.63,2025-09-26,Latin America,Bank Transfer
+CUST_78063,Motor Oil,Automotive,1,733.36,2025-09-26,Africa,Bank Transfer
+CUST_57442,Gym Equipment,Sports & Outdoors,2,488.19,2025-09-25,Middle East,Digital Wallet
+CUST_15515,Doll,Toys & Games,2,41.52,2025-09-25,Europe,Cash
+CUST_11909,Jeans,Clothing,2,291.87,2025-09-25,Africa,Cash
+CUST_90463,Desk Organizer,Office Supplies,1,79.47,2025-09-25,North America,Credit Card
+CUST_21287,Perfume,Health & Beauty,1,59.44,2025-09-25,Latin America,Digital Wallet
+CUST_21875,Hat,Clothing,2,263.54,2025-09-25,Europe,Bank Transfer
+CUST_57102,Tire,Automotive,4,521.15,2025-09-25,Latin America,Bank Transfer
+CUST_13205,Bedding,Home & Garden,4,458.79,2025-09-25,Africa,Digital Wallet
+CUST_63711,Smart Watch,Electronics,4,1853.89,2025-09-25,Middle East,PayPal
+CUST_79129,Spices,Food & Beverages,2,48.49,2025-09-25,Latin America,Bank Transfer
+CUST_59194,Sweater,Clothing,2,211.75,2025-09-24,North America,Cash
+CUST_53582,Dress,Clothing,3,123.69,2025-09-24,North America,Digital Wallet
+CUST_90698,Jeans,Clothing,5,82.04,2025-09-24,Africa,Cash
+CUST_51986,Doll,Toys & Games,3,151.71,2025-09-24,Europe,Debit Card
+CUST_96340,Headphones,Electronics,1,124.34,2025-09-24,North America,Credit Card
+CUST_28139,Bedding,Home & Garden,1,155.96,2025-09-24,Latin America,Credit Card
+CUST_81572,Toy Car,Toys & Games,1,172.4,2025-09-24,Middle East,Bank Transfer
+CUST_8086,Building Blocks,Toys & Games,1,68.09,2025-09-24,Europe,Debit Card
+CUST_15684,Water Bottle,Sports & Outdoors,4,416.26,2025-09-24,Europe,Cash
+CUST_59271,Tire,,3,938.16,2025-09-24,North America,Debit Card
+CUST_23283,Motor Oil,Automotive,1,546.27,2025-09-24,Africa,Bank Transfer
+CUST_11936,Laptop,Electronics,10,1511.13,2025-09-23,Latin America,Bank Transfer
+CUST_61249,Puzzle,Toys & Games,2,191.86,2025-09-23,Middle East,PayPal
+CUST_96082,Stapler,Office Supplies,2,28.93,2025-09-23,Africa,PayPal
+CUST_55590,Video Game,Toys & Games,2,42.08,2025-09-23,Latin America,Debit Card
+CUST_58383,Tablet,Electronics,3,873.55,2025-09-23,Middle East,Credit Card
+CUST_37506,Vitamins,Health & Beauty,3,104.01,2025-09-23,Asia Pacific,Cash
+CUST_48033,Face Mask,Health & Beauty,7,93.17,2025-09-23,Europe,Debit Card
+CUST_54806,Fiction Novel,Books,4,14.99,2025-09-23,Europe,Credit Card
+CUST_22706,Jacket,Clothing,1,148.47,2025-09-23,Africa,Bank Transfer
+CUST_29667,Self-Help Book,Books,4,26.69,2025-09-23,Middle East,
+CUST_61386,Desk Organizer,Office Supplies,3,29.1,2025-09-23,Africa,Digital Wallet
+CUST_46706,Biography,Books,4,72.68,2025-09-22,Latin America,PayPal
+CUST_41166,TV,Electronics,3,844.23,2025-09-22,Africa,Digital Wallet
+CUST_75003,Backpack,Sports & Outdoors,5,381.12,2025-09-22,Africa,Debit Card
+cust_22681,Printer Paper,Office Supplies,2,68.8,2025-09-22,Asia Pacific,PayPal
+CUST_47908,Camera,Electronics,2,69.29,2025-09-22,North America,Cash
+CUST_68070,Motor Oil,Automotive,1,950.96,2025-09-22,North America,Digital Wallet
+CUST_9919,Printer Paper,Office Supplies,1,50.97,2025-09-22,North America,Debit Card
+CUST_70227,Water Bottle,Sports & Outdoors,1,34.25,2025-09-22,Middle East,PayPal
+CUST_6478,Table,Home & Garden,1,411.72,2025-09-22,Asia Pacific,Cash
+CUST_88996,Video Game,Toys & Games,3,73.52,2025-09-22,,PayPal
+CUST_8938,Notebook,Office Supplies,1,31.68,2025-09-21,Africa,Debit Card
+CUST_49555,Makeup Kit,Health & Beauty,1,34.1,2025-09-21,Africa,Debit Card
+CUST_32370,Children Book,Books,1,13.82,2025-09-21,Latin America,Bank Transfer
+CUST_94625,Tire,Automotive,2,106.59,2025-09-21,North America,Cash
+CUST_15438,Organic Food,Food & Beverages,2,48.09,2025-09-21,North America,PayPal
+CUST_48218,Sweater,Clothing,2,158.06,2025-09-21,Europe,PayPal
+CUST_90885,Desk Organizer,Office Supplies,2,3.42,2025-09-21,Middle East,PayPal
+CUST_78276,Dress,Clothing,2,229.45,2025-09-21,Africa,Bank Transfer
+CUST_35359,Notebook,Office Supplies,1,54.49,2025-09-21,Middle East,Cash
+CUST_43457,Organic Food,Food & Beverages,2,7.64,2025-09-21,Latin America,Credit Card
+CUST_17758,Spices,Food & Beverages,1,23.22,2025-09-21,Europe,Digital Wallet
+CUST_20741,Children Book,Books,2,33.65,2025-09-21,North America,PayPal
+CUST_71120,Headphones,Electronics,1,960.81,2025-09-21,Africa,Credit Card
+CUST_1484,Gaming Console,Electronics,1,477.84,2025-09-21,Africa,Debit Card
+CUST_50464,Tea,Food & Beverages,2,20.0,2025-09-21,Asia Pacific,Credit Card
+cust_87057,Cookbook,Books,2,60.66,2025-09-21,Middle East,Debit Card
+CUST_92047,Chocolate,Food & Beverages,4,24.32,2025-09-20,North America,Credit Card
+CUST_88604,Shorts,Clothing,4,268.01,2025-09-20,Europe,Digital Wallet
+CUST_23304,TV,Electronics,3,1786.3,2025-09-20,Middle East,Cash
+CUST_20600,Board Game,Toys & Games,8,147.81,2025-09-20,North America,Cash
+CUST_89381,Fiction Novel,Books,2,16.39,2025-09-20,Middle East,Cash
+CUST_62469,Action Figure,Toys & Games,2,175.44,2025-09-20,Middle East,Digital Wallet
+CUST_40332,Lamp,Home & Garden,5,200.65,2025-09-20,North America,Bank Transfer
+CUST_9003,Headphones,Electronics,1,1888.43,2025-09-20,Africa,Digital Wallet
+CUST_22857,Snacks,Food & Beverages,1,32.5,2025-09-20,North America,Bank Transfer
+CUST_42383,Water Bottle,Sports & Outdoors,2,356.56,2025-09-20,Latin America,PayPal
+CUST_37627,Backpack,Sports & Outdoors,4,203.45,2025-09-20,Latin America,Cash
+CUST_55994,Chair,Home & Garden,1,352.38,2025-09-19,Europe,PayPal
+CUST_42140,Car Accessories,Automotive,1,511.51,2025-09-19,Europe,Cash
+CUST_90885,Smart Watch,Electronics,1,213.16,2025-09-19,Asia Pacific,Debit Card
+CUST_67597,Table,Home & Garden,1,546.6,2025-09-19,Africa,Debit Card
+CUST_85663,Makeup Kit,Health & Beauty,2,66.6,2025-09-19,Middle East,Debit Card
+CUST_14518,Vitamins,Health & Beauty,2,30.94,2025-09-19,Asia Pacific,Cash
+CUST_97050,Action Figure,Toys & Games,2,191.6,2025-09-19,Latin America,PayPal
+CUST_86815,Dress,Clothing,2,215.77,2025-09-19,Europe,Digital Wallet
+CUST_20080,Laptop,Electronics,6,1740.82,2025-09-19,Asia Pacific,Cash
+CUST_79729,Pen Set,Office Supplies,2,88.28,2025-09-19,Africa,Digital Wallet
+CUST_42701,Curtains,Home & Garden,1,306.2,2025-09-19,Asia Pacific,Credit Card
+CUST_77508,Tablet,Electronics,2,682.86,2025-09-19,Africa,Cash
+CUST_42140,Car Accessories,Automotive,1,511.51,2025-09-19,Europe,Cash
+CUST_14804,Pen Set,Office Supplies,2,50.41,2025-09-18,Africa,Debit Card
+CUST_22705,Tire,Automotive,3,595.41,2025-09-18,Latin America,Cash
+CUST_79346,Yoga Mat,Sports & Outdoors,1,474.86,2025-09-18,Africa,PayPal
+CUST_94451,Jacket,Clothing,2,93.28,2025-09-18,Asia Pacific,PayPal
+CUST_85338,Jeans,Clothing,5,285.68,2025-09-18,Asia Pacific,Bank Transfer
+CUST_16501,Car Parts,Automotive,2,308.05,2025-09-18,Africa,Digital Wallet
+CUST_95818,Car Parts,Automotive,2,58.74,2025-09-18,Africa,Debit Card
+CUST_56556,Dress,Clothing,1,93.51,2025-09-18,Asia Pacific,Cash
+CUST_40837,Shoes,Clothing,7,242.59,2025-09-18,Asia Pacific,PayPal
+CUST_87308,Biography,Books,2,60.71,2025-09-18,North America,PayPal
+CUST_88115,Table,Home & Garden,1,467.08,2025-09-18,Europe,Bank Transfer
+CUST_10280,Kitchen Set,Home & Garden,4,771.69,2025-09-18,North America,Bank Transfer
+CUST_64556,Coffee,Food & Beverages,2,27.57,2025-09-18,North America,Debit Card
+CUST_97376,Stapler,Office Supplies,5,76.46,2025-09-18,North America,PayPal
+CUST_6311,Toy Car,Toys & Games,1,45.85,2025-09-17,Africa,Cash
+CUST_8546,Dress,Clothing,1,89.85,2025-09-17,Europe,PayPal
+CUST_52308,Smart Watch,Electronics,1,832.42,2025-09-17,Africa,Debit Card
+CUST_25340,Headphones,Electronics,1,242.37,2025-09-17,Europe,Digital Wallet
+CUST_12980,Desk Organizer,Office Supplies,4,71.13,2025-09-17,Middle East,Credit Card
+CUST_68922,Magazine,Books,2,30.8,2025-09-17,Middle East,Debit Card
+CUST_29245,Yoga Mat,Sports & Outdoors,2,123.78,2025-09-17,North America,Bank Transfer
+CUST_37851,Pen Set,Office Supplies,3,46.26,2025-09-17,Latin America,Digital Wallet
+CUST_71492,Headphones,Electronics,4,1673.42,2025-09-17,Middle East,Bank Transfer
+CUST_51757,Organic Food,Food & Beverages,2,34.51,2025-09-17,Latin America,Cash
+CUST_35779,Shampoo,Health & Beauty,1,70.81,2025-09-17,North America,Digital Wallet
+CUST_2562,Hat,Clothing,1,49.11,2025-09-17,Europe,Bank Transfer
+CUST_68922,Magazine,Books,643,30.8,2025-09-17,Middle East,Debit Card
+CUST_85993,Shampoo,Health & Beauty,1,25.91,2025-09-16,North America,PayPal
+CUST_81940,Doll,Toys & Games,1,100.5,2025-09-16,Middle East,Debit Card
+CUST_84470,Snacks,Food & Beverages,1,47.97,2025-09-16,Africa,Cash
+CUST_7955,T-Shirt,Clothing,6,123.55,2025-09-16,Africa,Credit Card
+CUST_83715,Gym Equipment,Sports & Outdoors,4,217.3,2025-09-16,Asia Pacific,PayPal
+CUST_47255,Action Figure,Toys & Games,1,109.08,2025-09-16,Asia Pacific,Bank Transfer
+CUST_81380,Running Shoes,Sports & Outdoors,1,226.27,2025-09-16,Africa,Bank Transfer
+CUST_99760,Fiction Novel,Books,1,51.24,2025-09-16,North America,PayPal
+CUST_68861,Doll,Toys & Games,2,122.18,2025-09-15,North America,Digital Wallet
+CUST_34799,Action Figure,Toys & Games,2,52.81,2025-09-15,Europe,Debit Card
+CUST_20686,Hair Dryer,Health & Beauty,2,16.03,2025-09-15,North America,Digital Wallet
+CUST_39665,Shampoo,Health & Beauty,1,134.54,2025-09-15,Asia Pacific,Credit Card
+CUST_41146,Cookbook,Books,5,74.85,2025-09-15,Middle East,Digital Wallet
+CUST_59785,Table,Home & Garden,3,656.13,2025-09-15,Europe,Credit Card
+CUST_84908,Camera,Electronics,3,813.87,2025-09-15,Asia Pacific,Debit Card
+CUST_21021,Tennis Racket,Sports & Outdoors,1,135.37,2025-09-15,Latin America,PayPal
+CUST_34018,T-Shirt,Clothing,5,65.73,2025-09-15,Middle East,Credit Card
+CUST_57903,Desk Organizer,Office Supplies,5,7.22,2025-09-15,North America,Cash
+CUST_38803,Fiction Novel,Books,2,58.92,2025-09-15,Europe,Digital Wallet
+CUST_45639,Biography,Books,1,54.88,2025-09-15,Europe,Debit Card
+CUST_16520,Action Figure,Toys & Games,2,172.85,2025-09-15,Europe,Debit Card
+CUST_96568,Stapler,Office Supplies,4,19.6,2025-09-15,Europe,Debit Card
+CUST_2251,Self-Help Book,Books,2,65.48,2025-09-15,Latin America,Credit Card
+CUST_8294,Kitchen Set,Home & Garden,4,57.65,2025-09-15,Middle East,Debit Card
+CUST_37065,Desk Organizer,Office Supplies,3,98.92,2025-09-15,North America,Digital Wallet
+CUST_40498,Shoes,Clothing,3,239.26,2025-09-15,Middle East,Credit Card
+CUST_86018,Plant Pot,Home & Garden,5,472.07,2025-09-14,Middle East,Debit Card
+CUST_22594,Chair,Home & Garden,1,432.29,2025-09-14,Africa,Cash
+CUST_27589,Chair,Home & Garden,2,349.0,2025-09-14,Africa,Digital Wallet
+CUST_43030,Calculator,Office Supplies,4,77.94,2025-09-14,Europe,PayPal
+CUST_41571,Smartphone,Electronics,2,1170.14,2025-09-14,Latin America,PayPal
+CUST_35606,Tennis Racket,Sports & Outdoors,5,151.25,2025-09-14,Asia Pacific,Credit Card
+CUST_57420,Toy Car,Toys & Games,1,74.34,2025-09-14,North America,Credit Card
+CUST_26669,Sweater,Clothing,1,22.44,2025-09-14,Africa,Bank Transfer
+CUST_81926,Kitchen Set,Home & Garden,2,420.13,2025-09-14,Latin America,Credit Card
+CUST_20693,Smartphone,Electronics,1,953.61,2025-09-14,Europe,Bank Transfer
+CUST_36475,Sofa,Home & Garden,3,358.39,2025-09-13,Africa,Digital Wallet
+CUST_40775,Video Game,Toys & Games,2,89.99,2025-09-13,Latin America,Credit Card
+CUST_83078,Notebook,Office Supplies,1,80.53,2025-09-13,Africa,Credit Card
+CUST_69898,Energy Drink,Food & Beverages,1,36.03,2025-09-13,Middle East,Digital Wallet
+CUST_8967,Energy Drink,Food & Beverages,1,39.96,2025-09-13,North America,Cash
+CUST_85444,Tennis Racket,Sports & Outdoors,4,276.76,2025-09-13,North America,Bank Transfer
+CUST_44311,Fiction Novel,Books,2,69.11,2025-09-13,North America,Digital Wallet
+CUST_17837,Fiction Novel,Books,2,61.52,2025-09-13,Middle East,Digital Wallet
+CUST_98098,Vitamins,Health & Beauty,3,55.89,2025-09-13,Africa,PayPal
+CUST_51562,Toy Car,Toys & Games,732,152.29,2025-09-13,North America,Debit Card
+CUST_54547,Running Shoes,Sports & Outdoors,1,426.7,2025-09-13,Africa,Bank Transfer
+CUST_97119,T-Shirt,Clothing,3,16.04,2025-09-13,North America,Bank Transfer
+CUST_42111,Calculator,Office Supplies,2,19.82,2025-09-13,Africa,Credit Card
+CUST_34557,Tire,Automotive,7,986.56,2025-09-12,Latin America,Digital Wallet
+CUST_51977,Running Shoes,Sports & Outdoors,1,65.01,2025-09-12,Asia Pacific,Digital Wallet
+CUST_14019,Fiction Novel,Books,1,18.03,2025-09-12,Middle East,Debit Card
+CUST_41231,Vitamins,Health & Beauty,1,60.07,2025-09-12,Europe,Debit Card
+CUST_63111,Laptop,Electronics,1,743.39,2025-09-12,Europe,Credit Card
+CUST_84504,Doll,Toys & Games,2,55.5,2025-09-12,Africa,Credit Card
+CUST_18025,Hat,Clothing,1,162.53,2025-09-12,Africa,Digital Wallet
+CUST_67304,Textbook,Books,1,54.86,2025-09-12,Middle East,Bank Transfer
+CUST_2549,Skincare Set,Health & Beauty,5,111.16,2025-09-12,Asia Pacific,Credit Card
+CUST_56811,Shampoo,Health & Beauty,10,77.59,2025-09-12,North America,Bank Transfer
+CUST_70977,Fiction Novel,Books,2,42.48,2025-09-12,Europe,PayPal
+CUST_5553,Building Blocks,Toys & Games,2,29.01,2025-09-12,Latin America,Cash
+CUST_82582,Kitchen Set,Home & Garden,1,158.58,2025-09-12,Africa,PayPal
+CUST_97463,Yoga Mat,Sports & Outdoors,2,475.89,2025-09-12,Africa,Credit Card
+CUST_84000,Sweater,Clothing,2,28.25,2025-09-11,Africa,Cash
+CUST_73264,Chocolate,Food & Beverages,5,9.65,2025-09-11,Europe,Cash
+CUST_14960,Backpack,Sports & Outdoors,2,194.78,2025-09-11,North America,Credit Card
+CUST_31295,Plant Pot,Home & Garden,3,70.51,2025-09-11,Africa,Digital Wallet
+CUST_87803,Desk Organizer,Office Supplies,2,58.28,2025-09-11,North America,Bank Transfer
+CUST_8853,Snacks,Food & Beverages,2,44.97,2025-09-11,Europe,
+CUST_80391,Sofa,Home & Garden,4,170.68,2025-09-11,Asia Pacific,PayPal
+CUST_4864,Pen Set,Office Supplies,3,84.07,2025-09-11,Africa,Bank Transfer
+CUST_50777,Building Blocks,Toys & Games,1,194.32,2025-09-11,Middle East,PayPal
+CUST_20887,Stapler,Office Supplies,2,69.59,2025-09-10,Europe,Cash
+CUST_59232,Car Charger,Automotive,2,499.54,2025-09-10,Europe,PayPal
+CUST_74831,Perfume,Health & Beauty,5,51.74,2025-09-10,Latin America,Bank Transfer
+CUST_21543,Gym Equipment,Sports & Outdoors,2,316.91,2025-09-10,North America,Cash
+CUST_25370,Tablet,Electronics,1,1169.79,2025-09-10,Latin America,Bank Transfer
+CUST_44821,Video Game,Toys & Games,2,111.32,2025-09-10,Africa,Digital Wallet
+CUST_32566,Sweater,Clothing,1,191.62,2025-09-10,Latin America,Cash
+CUST_92917,Bicycle,Sports & Outdoors,4,96.41,2025-09-10,North America,Bank Transfer
+CUST_5588,Snacks,Food & Beverages,4,43.32,2025-09-10,North America,Credit Card
+CUST_40506,Perfume,Health & Beauty,1,114.05,2025-09-10,Latin America,PayPal
+CUST_44560,Jacket,Clothing,3,86.1,2025-09-10,Africa,PayPal
+CUST_85819,Spices,Food & Beverages,8,15.09,2025-09-10,Middle East,Bank Transfer
+CUST_92710,Textbook,Books,1,19.0,2025-09-10,Asia Pacific,Cash
+CUST_3279,Tennis Racket,Sports & Outdoors,4,72.51,2025-09-09,Middle East,
+CUST_79089,Shampoo,Health & Beauty,2,98.31,2025-09-09,North America,PayPal
+CUST_22976,Printer Paper,Office Supplies,8,68.0,2025-09-09,Africa,Debit Card
+CUST_54564,Lamp,Home & Garden,2,269.02,2025-09-09,Middle East,PayPal
+CUST_16202,Running Shoes,Sports & Outdoors,2,463.82,2025-09-09,Latin America,Cash
+CUST_45912,Snacks,Food & Beverages,2,20.91,2025-09-09,Latin America,Bank Transfer
+CUST_87567,Motor Oil,Automotive,2,581.13,2025-09-09,Africa,Credit Card
+CUST_67999,Smart Watch,Electronics,2,1075.15,2025-09-09,Africa,Bank Transfer
+CUST_18793,Car Charger,Automotive,1,149.41,2025-09-09,Middle East,Digital Wallet
+CUST_53718,Backpack,Sports & Outdoors,4,65.98,2025-09-09,North America,Digital Wallet
+CUST_62040,Gaming Console,Electronics,1,893.35,2025-09-09,Latin America,Debit Card
+CUST_66677,Laptop,Electronics,3,991.46,2025-09-08,Europe,Debit Card
+CUST_74009,Plant Pot,Home & Garden,1,335.83,2025-09-08,Latin America,Debit Card
+CUST_74966,Makeup Kit,Health & Beauty,1,70.0,2025-09-08,Latin America,PayPal
+CUST_28767,Action Figure,Toys & Games,1,194.01,2025-09-08,Latin America,PayPal
+CUST_3904,Face Mask,Health & Beauty,3,140.85,2025-09-08,Latin America,Credit Card
+CUST_10626,Motor Oil,Automotive,1,174.85,2025-09-08,Asia Pacific,PayPal
+CUST_2275,Skincare Set,Health & Beauty,2,112.39,2025-09-08,Africa,Debit Card
+CUST_62694,Car Charger,Automotive,1,345.46,2025-09-08,Middle East,Digital Wallet
+CUST_71712,Stapler,Office Supplies,5,37.06,2025-09-08,Middle East,Cash
+CUST_39918,Textbook,Books,2,24.87,2025-09-08,Latin America,Digital Wallet
+CUST_72176,Organic Food,Food & Beverages,3,49.51,2025-09-08,Latin America,PayPal
+CUST_17053,Desk Organizer,Office Supplies,4,12.38,2025-09-08,Africa,PayPal
+CUST_38873,Calculator,Office Supplies,1,39.08,2025-09-08,Asia Pacific,Cash
+CUST_72010,Dress,Clothing,1,94.69,2025-09-08,Europe,Digital Wallet
+CUST_85499,Notebook,Office Supplies,2,67.2,2025-09-08,Latin America,Credit Card
+CUST_23035,Car Accessories,Automotive,1,712.57,2025-09-08,Middle East,Debit Card
+CUST_34469,Lamp,Home & Garden,9,107.98,2025-09-08,Europe,Bank Transfer
+CUST_86131,Tea,Food & Beverages,2,11.33,2025-09-08,North America,Cash
+CUST_2020,Table,Home & Garden,1,143.0,2025-09-08,Middle East,Cash
+CUST_16596,Doll,Toys & Games,1,139.98,2025-09-07,Latin America,Bank Transfer
+CUST_89043,Car Accessories,Automotive,4,546.84,2025-09-07,Africa,Credit Card
+CUST_22016,Toy Car,Toys & Games,1,30.87,2025-09-07,Africa,PayPal
+CUST_79411,Organic Food,Food & Beverages,1,15.5,2025-09-07,Asia Pacific,PayPal
+CUST_28010,Camera,Electronics,3,331.55,2025-09-07,Middle East,Digital Wallet
+CUST_61960,TV,Electronics,3,184.41,2025-09-07,Asia Pacific,PayPal
+CUST_23398,Building Blocks,Toys & Games,1,83.55,2025-09-07,Asia Pacific,Cash
+CUST_50197,Sweater,Clothing,1,132.43,2025-09-07,Latin America,Debit Card
+CUST_50106,Camera,Electronics,1,547.19,2025-09-07,Middle East,Bank Transfer
+CUST_22206,Tennis Racket,Sports & Outdoors,2,395.89,2025-09-07,North America,Debit Card
+CUST_60054,Smart Watch,Electronics,2,1577.92,2025-09-07,Latin America,Debit Card
+CUST_83992,Smartphone,Electronics,1,1505.31,2025-09-07,Asia Pacific,Debit Card
+CUST_2588,Bicycle,Sports & Outdoors,1,340.63,2025-09-07,Middle East,Bank Transfer
+CUST_96469,Textbook,Books,1,77.96,2025-09-06,Asia Pacific,Bank Transfer
+CUST_51087,Plant Pot,Home & Garden,1,95.17,2025-09-06,Asia Pacific,Digital Wallet
+CUST_15268,Energy Drink,Food & Beverages,1,19.38,2025-09-06,Asia Pacific,Bank Transfer
+CUST_96197,Vitamins,Health & Beauty,4,109.76,2025-09-06,Africa,PayPal
+CUST_73088,Shoes,Clothing,3,100.58,2025-09-06,Asia Pacific,Credit Card
+CUST_12738,GPS Device,Automotive,2,250.31,2025-09-06,Latin America,PayPal
+CUST_27294,Snacks,Food & Beverages,1,26.62,2025-09-06,Europe,Cash
+CUST_4914,Plant Pot,Home & Garden,1,283.09,2025-09-06,Latin America,Cash
+CUST_82652,Dress,Clothing,1,209.68,2025-09-06,Asia Pacific,Digital Wallet
+CUST_16456,Gaming Console,Electronics,6,1269.65,2025-09-06,Africa,Debit Card
+CUST_76671,Toy Car,Toys & Games,3,104.29,2025-09-05,North America,Cash
+CUST_31816,Tennis Racket,Sports & Outdoors,1,226.45,2025-09-05,Asia Pacific,Debit Card
+CUST_66496,Skincare Set,Health & Beauty,1,119.84,2025-09-05,Latin America,Cash
+CUST_69760,Desk Organizer,Office Supplies,2,21.09,2025-09-05,Asia Pacific,Cash
+CUST_73924,Hat,Clothing,1,246.35,2025-09-05,North America,Cash
+CUST_24332,Board Game,Toys & Games,1,86.99,2025-09-05,Europe,Bank Transfer
+CUST_82083,Stapler,Office Supplies,1,39.87,2025-09-05,Asia Pacific,Debit Card
+CUST_77469,Backpack,Sports & Outdoors,4,459.33,2025-09-05,,PayPal
+CUST_44984,Laptop,Electronics,2,1735.64,2025-09-05,Latin America,Cash
+CUST_66072,TV,Electronics,3,1728.76,2025-09-05,Europe,Bank Transfer
+CUST_5665,Makeup Kit,Health & Beauty,1,80.52,2025-09-05,Latin America,Cash
+CUST_61690,Hair Dryer,Health & Beauty,2,79.94,2025-09-05,Africa,Debit Card
+CUST_53534,GPS Device,Automotive,1,494.86,2025-09-05,Middle East,Cash
+CUST_74613,Energy Drink,Food & Beverages,4,38.39,2025-09-04,Africa,Digital Wallet
+CUST_86749,Yoga Mat,Sports & Outdoors,5,407.59,2025-09-04,Europe,Digital Wallet
+CUST_90192,Yoga Mat,Sports & Outdoors,1,417.28,2025-09-04,North America,Credit Card
+CUST_61050,Puzzle,Toys & Games,1,101.97,2025-09-04,North America,Bank Transfer
+CUST_7166,Self-Help Book,Books,1,33.7,2025-09-04,Asia Pacific,Debit Card
+CUST_95647,Tablet,Electronics,3,131.98,2025-09-04,Middle East,Debit Card
+CUST_29239,Plant Pot,Home & Garden,3,607.43,2025-09-04,North America,Debit Card
+CUST_7976,Sofa,Home & Garden,4,678.92,2025-09-04,North America,Cash
+CUST_97257,Gaming Console,Electronics,1,1266.31,2025-09-04,Europe,Bank Transfer
+CUST_14954,Plant Pot,Home & Garden,1,71.52,2025-09-04,Asia Pacific,Cash
+CUST_23850,Lamp,Home & Garden,3,758.48,2025-09-04,North America,Bank Transfer
+CUST_42774,T-Shirt,Clothing,1,99.05,2025-09-04,Asia Pacific,Credit Card
+CUST_73492,Lamp,Home & Garden,2,492.18,2025-09-04,Africa,Cash
+CUST_70970,Desk Organizer,Office Supplies,2,34.72,2025-09-04,Asia Pacific,Credit Card
+CUST_48781,Tablet,Electronics,4,543.72,2025-09-04,Europe,Bank Transfer
+CUST_48787,Car Accessories,Automotive,5,676.44,2025-09-04,Asia Pacific,Cash
+CUST_75995,Coffee,Food & Beverages,7,17.33,2025-09-04,Asia Pacific,Debit Card
+CUST_93104,Fiction Novel,Books,1,22.63,2025-09-04,Asia Pacific,PayPal
+CUST_45396,Tire,Automotive,1,754.16,2025-09-03,North America,Bank Transfer
+CUST_26105,Spices,Food & Beverages,7,36.06,2025-09-03,Europe,Digital Wallet
+CUST_70968,Toy Car,Toys & Games,1,187.67,2025-09-03,Middle East,Credit Card
+CUST_57345,Bedding,Home & Garden,1,500.13,2025-09-03,Europe,Digital Wallet
+CUST_21280,Textbook,Books,1,24.94,2025-09-03,Europe,Bank Transfer
+CUST_69359,Motor Oil,Automotive,3,75.48,2025-09-03,Africa,PayPal
+CUST_41751,Headphones,Electronics,1,526.48,2025-09-03,North America,Digital Wallet
+CUST_39863,Camera,Electronics,3,1710.55,2025-09-03,Middle East,Debit Card
+CUST_95306,Gym Equipment,Sports & Outdoors,4,349.93,2025-09-03,Europe,Cash
+CUST_28300,GPS Device,Automotive,2,211.88,2025-09-03,Middle East,Digital Wallet
+CUST_58748,Gym Equipment,Sports & Outdoors,1,433.85,2025-09-03,North America,Cash
+CUST_14254,Stapler,Office Supplies,3,64.87,2025-09-03,Latin America,Cash
+CUST_85681,Dress,Clothing,1,293.1,2025-09-02,Africa,Cash
+CUST_40838,Energy Drink,Food & Beverages,4,16.64,2025-09-02,Africa,Bank Transfer
+CUST_45142,Children Book,Books,6,11.32,2025-09-02,Middle East,Digital Wallet
+CUST_63747,Snacks,Food & Beverages,1,15.3,2025-09-02,Asia Pacific,Debit Card
+CUST_82570,Building Blocks,Toys & Games,4,141.67,2025-09-02,North America,Debit Card
+CUST_52423,Car Parts,Automotive,1,897.31,2025-09-02,Latin America,Debit Card
+CUST_7281,Fiction Novel,Books,1,41.24,2025-09-02,Europe,Credit Card
+CUST_39038,Yoga Mat,Sports & Outdoors,1,66.47,2025-09-02,Latin America,Cash
+CUST_98215,Notebook,Office Supplies,3,33.0,2025-09-02,Africa,Digital Wallet
+CUST_2019,Bicycle,Sports & Outdoors,2,177.28,2025-09-02,North America,Bank Transfer
+CUST_95793,Car Accessories,Automotive,5,393.71,2025-09-02,Middle East,Cash
+CUST_30351,Board Game,Toys & Games,4,188.65,2025-09-01,Middle East,PayPal
+CUST_37779,Perfume,Health & Beauty,1,76.78,2025-09-01,North America,Cash
+CUST_89079,Stapler,Office Supplies,2,4.62,2025-09-01,Asia Pacific,Digital Wallet
+CUST_88518,Notebook,Office Supplies,2,33.56,2025-09-01,Africa,Credit Card
+CUST_50790,Bedding,Home & Garden,3,160.93,2025-09-01,North America,Digital Wallet
+CUST_60622,Desk Organizer,Office Supplies,1,71.65,2025-09-01,Europe,Cash
+CUST_63750,Camera,Electronics,4,1838.48,2025-09-01,Middle East,Digital Wallet
+CUST_44190,Video Game,Toys & Games,2,30.58,2025-09-01,Middle East,Credit Card
+CUST_50787,Chocolate,Food & Beverages,1,8.16,2025-09-01,Africa,Bank Transfer
+CUST_5322,Sweater,Clothing,1,276.05,2025-09-01,Africa,Credit Card
+CUST_14787,Doll,Toys & Games,2,22.65,2025-09-01,Asia Pacific,Digital Wallet
+CUST_33239,Notebook,Office Supplies,4,46.36,2025-09-01,Latin America,Cash
+CUST_64454,Jeans,Clothing,2,45.64,2025-09-01,Middle East,Bank Transfer
+CUST_85922,Kitchen Set,Home & Garden,1,533.71,2025-08-31,Middle East,Debit Card
+CUST_7866,Makeup Kit,Health & Beauty,1,72.54,2025-08-31,North America,Debit Card
+CUST_73800,Backpack,Sports & Outdoors,2,228.06,2025-08-31,Middle East,Digital Wallet
+CUST_5841,Printer Paper,Office Supplies,1,35.97,2025-08-31,Latin America,Digital Wallet
+CUST_23514,Shoes,Clothing,1,100.3,2025-08-31,Asia Pacific,PayPal
+CUST_1560,Sofa,Home & Garden,1,496.81,2025-08-31,North America,Digital Wallet
+CUST_34614,Bicycle,Sports & Outdoors,3,66.49,2025-08-31,North America,Cash
+CUST_73422,Desk Organizer,Office Supplies,2,73.77,2025-08-31,Africa,Credit Card
+CUST_85522,Doll,Toys & Games,3,91.13,2025-08-31,Middle East,Credit Card
+CUST_23514,Shoes,Clothing,1,100.3,2025-08-31,Asia Pacific,PayPal
+CUST_44655,Children Book,Books,1,33.77,2025-08-31,Europe,Credit Card
+CUST_53505,Headphones,Electronics,5,304.89,2025-08-31,Asia Pacific,Digital Wallet
+CUST_23497,Video Game,Toys & Games,1,74.25,2025-08-31,Latin America,Debit Card
+CUST_84864,Backpack,Sports & Outdoors,2,281.08,2025-08-31,Europe,Debit Card
+CUST_90142,Printer Paper,Office Supplies,2,76.33,2025-08-31,Asia Pacific,PayPal
+CUST_13942,Smartphone,Electronics,2,631.15,2025-08-31,Asia Pacific,
+CUST_74841,Board Game,Toys & Games,4,151.21,2025-08-31,Latin America,Bank Transfer
+CUST_98404,Tire,Automotive,2,680.37,2025-08-30,Africa,Cash
+CUST_14346,Stapler,Office Supplies,4,44.89,2025-08-30,Africa,Credit Card
+CUST_77989,Gaming Console,Electronics,1,512.56,2025-08-30,Asia Pacific,Cash
+CUST_98119,GPS Device,Automotive,2,478.45,2025-08-30,Africa,Digital Wallet
+CUST_37281,Doll,Toys & Games,3,80.86,2025-08-30,Middle East,Bank Transfer
+cust_40802,Hair Dryer,Health & Beauty,4,65.11,2025-08-30,Europe,Credit Card
+CUST_31508,Snacks,Food & Beverages,1,39.51,2025-08-30,Europe,Credit Card
+CUST_18453,Lamp,Home & Garden,2,564.64,2025-08-30,Africa,Cash
+CUST_35562,Energy Drink,Food & Beverages,2,40.05,2025-08-30,Middle East,Bank Transfer
+CUST_46587,Fiction Novel,Books,2,47.91,2025-08-30,North America,Cash
+CUST_65166,Video Game,Toys & Games,2,82.15,2025-08-30,Asia Pacific,Digital Wallet
+CUST_4178,Car Parts,Automotive,5,280.75,2025-08-29,Asia Pacific,Debit Card
+CUST_90780,Backpack,Sports & Outdoors,1,125.46,2025-08-29,Asia Pacific,Cash
+CUST_68065,Curtains,Home & Garden,2,190.64,2025-08-29,Middle East,PayPal
+CUST_72854,Printer Paper,Office Supplies,2,90.33,2025-08-29,Latin America,PayPal
+CUST_17671,Tire,Automotive,2,854.97,2025-08-29,Africa,Credit Card
+CUST_24183,Board Game,Toys & Games,2,31.49,2025-08-29,Asia Pacific,Digital Wallet
+CUST_32768,Vitamins,Health & Beauty,7,126.65,2025-08-29,Africa,Digital Wallet
+CUST_98221,Hair Dryer,Health & Beauty,5,51.07,2025-08-29,Middle East,Bank Transfer
+CUST_64624,Tea,Food & Beverages,1,17.53,2025-08-29,Europe,Cash
+CUST_75890,Shorts,Clothing,1,285.6,2025-08-29,Africa,Bank Transfer
+CUST_15884,Pen Set,Office Supplies,6,42.37,2025-08-29,Europe,Debit Card
+CUST_54947,Face Mask,Health & Beauty,6,145.87,2025-08-29,Asia Pacific,Debit Card
+CUST_25492,Pen Set,Office Supplies,1,73.74,2025-08-29,Europe,PayPal
+CUST_48627,TV,Electronics,2,1697.79,2025-08-28,North America,Credit Card
+CUST_96421,Chocolate,Food & Beverages,3,42.75,2025-08-28,Latin America,Bank Transfer
+CUST_55690,Children Book,Books,2,40.29,2025-08-28,Africa,PayPal
+CUST_81948,Video Game,Toys & Games,2,25.8,2025-08-28,Middle East,PayPal
+CUST_62721,Smart Watch,Electronics,1,294.45,2025-08-28,Middle East,Bank Transfer
+CUST_76358,Desk Organizer,Office Supplies,2,17.77,2025-08-28,Asia Pacific,Credit Card
+CUST_81706,Dress,Clothing,1,261.25,2025-08-28,Europe,
+CUST_5618,Calculator,Office Supplies,1,99.04,2025-08-28,Africa,Debit Card
+CUST_70188,Car Charger,Automotive,1,436.24,2025-08-28,Middle East,Digital Wallet
+CUST_51670,Running Shoes,Sports & Outdoors,2,337.48,2025-08-28,North America,Debit Card
+CUST_65766,GPS Device,Automotive,1,836.24,2025-08-28,North America,PayPal
+CUST_88141,Plant Pot,Home & Garden,2,269.75,2025-08-28,Africa,Cash
+CUST_90630,Desk Organizer,Office Supplies,1,12.21,2025-08-28,Europe,Cash
+CUST_52296,Desk Organizer,Office Supplies,1,26.46,2025-08-28,Europe,Cash
+CUST_90849,Board Game,Toys & Games,1,110.75,2025-08-28,Latin America,PayPal
+CUST_27313,Skincare Set,Health & Beauty,5,130.97,2025-08-27,Latin America,Cash
+CUST_21349,Jacket,Clothing,1,240.17,2025-08-27,Europe,Cash
+CUST_93914,Snacks,Food & Beverages,4,31.42,2025-08-27,North America,Bank Transfer
+CUST_41765,Textbook,Books,1,35.35,2025-08-27,Europe,Cash
+CUST_36939,Car Charger,Automotive,2,921.06,2025-08-27,Europe,Digital Wallet
+CUST_69280,Tire,Automotive,1,755.46,2025-08-27,Latin America,Bank Transfer
+CUST_55432,Fiction Novel,Books,2,45.81,2025-08-27,Europe,Credit Card
+CUST_35236,Car Charger,Automotive,1,142.64,2025-08-27,North America,Debit Card
+CUST_39207,Coffee,Food & Beverages,2,45.16,2025-08-27,Asia Pacific,Credit Card
+CUST_56068,Jacket,Clothing,2,143.07,2025-08-27,Asia Pacific,Credit Card
+CUST_78908,GPS Device,Automotive,1,887.34,2025-08-27,Europe,Bank Transfer
+CUST_60384,Tea,Food & Beverages,1,19.28,2025-08-27,Middle East,Cash
+CUST_37330,Desk Organizer,Office Supplies,1,59.99,2025-08-27,Asia Pacific,Debit Card
+CUST_26427,Biography,Books,6,73.19,2025-08-27,North America,Digital Wallet
+CUST_29010,Car Accessories,Automotive,5,458.9,2025-08-27,Middle East,Bank Transfer
+CUST_36762,Tire,Automotive,2,640.3,2025-08-27,Latin America,PayPal
+CUST_22412,Tire,Automotive,1,146.9,2025-08-27,Asia Pacific,Debit Card
+CUST_58336,Car Charger,Automotive,1,145.74,2025-08-27,Africa,Cash
+CUST_2958,Bedding,Home & Garden,1,100.49,2025-08-26,Europe,PayPal
+CUST_5337,Action Figure,Toys & Games,4,14.92,2025-08-26,Middle East,Debit Card
+CUST_87932,Board Game,Toys & Games,2,154.42,2025-08-26,Europe,Credit Card
+CUST_55786,Tablet,Electronics,1,344.89,2025-08-26,North America,Digital Wallet
+CUST_27476,Children Book,Books,2,43.19,2025-08-26,Middle East,Digital Wallet
+CUST_35800,Dress,Clothing,5,259.77,2025-08-26,Africa,Bank Transfer
+CUST_46760,Biography,Books,1,53.52,2025-08-26,Europe,Cash
+CUST_12568,Calculator,Office Supplies,1,98.31,2025-08-26,North America,Digital Wallet
+CUST_27220,Sweater,Clothing,1,100.41,2025-08-26,Africa,Credit Card
+CUST_76982,Laptop,Electronics,1,868.54,2025-08-26,Latin America,PayPal
+CUST_78481,Car Charger,Automotive,1,716.41,2025-08-26,North America,Cash
+CUST_92230,Running Shoes,Sports & Outdoors,6,411.66,2025-08-26,Europe,Credit Card
+CUST_84034,Makeup Kit,Health & Beauty,1,63.16,2025-08-25,Europe,Digital Wallet
+CUST_20842,Tennis Racket,Sports & Outdoors,2,237.12,2025-08-25,Africa,Digital Wallet
+CUST_26733,Textbook,Books,1,19.95,2025-08-25,North America,Cash
+CUST_47041,Self-Help Book,Books,4,68.9,2025-08-25,Latin America,Debit Card
+CUST_70824,Tire,Automotive,2,939.05,2025-08-25,Middle East,Bank Transfer
+CUST_87237,Lamp,Home & Garden,2,306.13,2025-08-25,Asia Pacific,Digital Wallet
+CUST_53546,Hat,Clothing,4,127.08,2025-08-25,Europe,Credit Card
+CUST_86729,Children Book,Books,1,62.68,2025-08-25,Europe,Credit Card
+CUST_4796,Desk Organizer,Office Supplies,1,69.66,2025-08-25,Asia Pacific,PayPal
+CUST_31763,Jacket,Clothing,2,262.47,2025-08-25,Latin America,Credit Card
+CUST_56799,Shampoo,Health & Beauty,7,40.02,2025-08-25,Africa,Bank Transfer
+CUST_76384,Tennis Racket,Sports & Outdoors,4,269.18,2025-08-25,Middle East,PayPal
+CUST_52505,Cookbook,Books,1,69.56,2025-08-25,Africa,Digital Wallet
+CUST_74079,Toy Car,Toys & Games,1,179.03,2025-08-25,Latin America,Cash
+CUST_95696,Car Charger,Automotive,2,287.71,2025-08-25,Middle East,Bank Transfer
+CUST_93365,Smartphone,Electronics,3,338.04,2025-08-25,Europe,Credit Card
+CUST_33775,Tablet,Electronics,4,362.07,2025-08-25,Europe,Digital Wallet
+CUST_1336,Jacket,Clothing,1,226.12,2025-08-25,North America,Credit Card
+CUST_97447,Desk Organizer,Office Supplies,4,87.66,2025-08-25,Africa,Credit Card
+CUST_50356,Shoes,Clothing,3,50.46,2025-08-24,Middle East,Bank Transfer
+CUST_64185,Car Charger,Automotive,6,279.3,2025-08-24,Africa,Digital Wallet
+CUST_59064,Makeup Kit,Health & Beauty,7,53.25,2025-08-24,Europe,Debit Card
+CUST_76233,Gaming Console,Electronics,7,1637.28,2025-08-24,Europe,Digital Wallet
+CUST_85538,Jeans,Clothing,1,169.42,2025-08-24,Middle East,Debit Card
+CUST_49619,Motor Oil,Automotive,1,574.21,2025-08-24,Latin America,PayPal
+CUST_22990,Yoga Mat,Sports & Outdoors,1,23.15,2025-08-24,Europe,PayPal
+CUST_80500,Camera,Electronics,2,1966.2,2025-08-24,Africa,Debit Card
+CUST_34647,Magazine,Books,5,27.39,2025-08-24,Middle East,Digital Wallet
+CUST_65382,Backpack,Sports & Outdoors,2,157.08,2025-08-24,Europe,Credit Card
+CUST_22245,Table,Home & Garden,1,577.91,2025-08-23,Africa,Cash
+CUST_57893,Yoga Mat,Sports & Outdoors,4,376.23,2025-08-23,Middle East,Debit Card
+CUST_51652,Running Shoes,Sports & Outdoors,5,79.06,2025-08-23,Asia Pacific,Cash
+CUST_43291,Curtains,Home & Garden,3,152.61,2025-08-23,Africa,Debit Card
+CUST_86755,Biography,Books,1,51.83,2025-08-23,Africa,Bank Transfer
+CUST_59515,Jeans,Clothing,1,184.27,2025-08-23,Middle East,Digital Wallet
+CUST_78417,Bicycle,Sports & Outdoors,3,474.61,2025-08-23,Middle East,Cash
+CUST_59711,Spices,Food & Beverages,7,22.5,2025-08-23,North America,Digital Wallet
+CUST_30362,Calculator,Office Supplies,1,35.1,2025-08-23,Asia Pacific,PayPal
+CUST_9829,Coffee,Food & Beverages,3,18.08,2025-08-23,Asia Pacific,Credit Card
+CUST_12940,Energy Drink,Food & Beverages,2,26.89,2025-08-23,Africa,Digital Wallet
+CUST_68552,Perfume,Health & Beauty,1,89.6,2025-08-23,Africa,Bank Transfer
+CUST_78664,Biography,Books,2,24.6,2025-08-23,Middle East,Digital Wallet
+CUST_29720,Board Game,Toys & Games,1,95.19,2025-08-23,Latin America,Bank Transfer
+CUST_25097,Plant Pot,Home & Garden,1,762.34,2025-08-23,Africa,Digital Wallet
+CUST_91888,Gaming Console,Electronics,3,1689.97,2025-08-23,Europe,Credit Card
+CUST_61332,Gaming Console,Electronics,3,483.75,2025-08-23,Asia Pacific,PayPal
+CUST_41089,Printer Paper,Office Supplies,1,53.02,2025-08-23,North America,Credit Card
+CUST_25219,Backpack,Sports & Outdoors,5,452.56,2025-08-22,Africa,PayPal
+CUST_18427,Textbook,Books,1,36.28,2025-08-22,Africa,PayPal
+CUST_96411,Laptop,Electronics,1,1171.62,2025-08-22,Africa,Cash
+CUST_91517,Textbook,Books,2,68.76,2025-08-22,Asia Pacific,Debit Card
+CUST_99514,Organic Food,Food & Beverages,5,19.51,2025-08-22,Asia Pacific,Bank Transfer
+CUST_25266,Sofa,Home & Garden,2,497.13,2025-08-22,North America,Bank Transfer
+CUST_95883,Tennis Racket,Sports & Outdoors,1,437.64,2025-08-22,Asia Pacific,PayPal
+CUST_3487,Shorts,Clothing,2,230.79,2025-08-22,Asia Pacific,Cash
+CUST_17777,Tablet,Electronics,5,1597.2,2025-08-22,Europe,Digital Wallet
+CUST_45812,GPS Device,Automotive,3,938.73,2025-08-22,Europe,Debit Card
+CUST_32003,Water Bottle,Sports & Outdoors,1,214.34,2025-08-22,North America,Cash
+CUST_94018,Yoga Mat,Sports & Outdoors,3,349.92,2025-08-22,Europe,Credit Card
+CUST_59951,Plant Pot,Home & Garden,2,291.23,2025-08-22,Asia Pacific,Debit Card
+CUST_73384,Curtains,Home & Garden,2,451.9,2025-08-22,Latin America,Credit Card
+CUST_76690,Snacks,Food & Beverages,2,40.39,2025-08-22,Africa,Digital Wallet
+CUST_4515,Magazine,Books,1,75.89,2025-08-22,Africa,PayPal
+CUST_60394,Puzzle,Toys & Games,1,74.85,2025-08-22,North America,Credit Card
+CUST_25749,Notebook,Office Supplies,4,53.3,2025-08-22,Latin America,Debit Card
+CUST_64956,Puzzle,Toys & Games,1,129.84,2025-08-22,Middle East,Credit Card
+CUST_97556,Hair Dryer,Health & Beauty,1,16.1,2025-08-22,Europe,Digital Wallet
+CUST_66989,Chocolate,Food & Beverages,2,38.8,2025-08-22,Asia Pacific,PayPal
+CUST_93103,Self-Help Book,Books,1,16.16,2025-08-22,Africa,Credit Card
+CUST_24437,Car Parts,Automotive,2,107.77,2025-08-21,Asia Pacific,Credit Card
+CUST_94646,Puzzle,Toys & Games,1,166.9,2025-08-21,Middle East,Digital Wallet
+CUST_72019,Jacket,Clothing,3,287.22,2025-08-21,Middle East,Credit Card
+CUST_11753,Chocolate,Food & Beverages,2,22.89,2025-08-21,Latin America,Bank Transfer
+CUST_26617,Organic Food,Food & Beverages,2,34.97,2025-08-21,Africa,Cash
+CUST_83115,Printer Paper,Office Supplies,1,11.58,2025-08-21,Latin America,Credit Card
+CUST_21091,Sofa,Home & Garden,2,29.58,2025-08-21,Europe,Cash
+CUST_32147,Board Game,Toys & Games,1,157.92,2025-08-21,Asia Pacific,Credit Card
+CUST_8648,Calculator,Office Supplies,3,24.43,2025-08-21,North America,PayPal
+CUST_23332,Smart Watch,Electronics,1,182.25,2025-08-21,Europe,Credit Card
+CUST_59745,Makeup Kit,Health & Beauty,2,119.9,2025-08-20,Latin America,PayPal
+CUST_46485,Jeans,Clothing,1,281.76,2025-08-20,Africa,
+CUST_28917,Car Parts,Automotive,1,455.91,2025-08-20,Africa,PayPal
+CUST_3712,Children Book,Books,3,66.31,2025-08-20,Middle East,Credit Card
+CUST_86713,Notebook,Office Supplies,2,95.67,2025-08-20,Asia Pacific,Cash
+CUST_87563,Sofa,Home & Garden,2,25.42,2025-08-20,Africa,PayPal
+CUST_62493,Motor Oil,Automotive,1,794.96,2025-08-20,Africa,Debit Card
+CUST_43126,Spices,Food & Beverages,2,30.87,2025-08-20,Europe,Digital Wallet
+CUST_50518,Biography,Books,2,51.37,2025-08-20,Middle East,Digital Wallet
+CUST_16126,GPS Device,Automotive,2,597.63,2025-08-20,Africa,Debit Card
+CUST_17880,Water Bottle,Sports & Outdoors,2,232.85,2025-08-20,North America,PayPal
+CUST_84172,Bedding,Home & Garden,1,306.94,2025-08-20,Europe,Debit Card
+CUST_22599,Desk Organizer,Office Supplies,2,53.33,2025-08-20,Middle East,Bank Transfer
+CUST_19829,Yoga Mat,Sports & Outdoors,8,111.03,2025-08-20,Africa,Digital Wallet
+CUST_87413,Video Game,Toys & Games,2,37.96,2025-08-19,North America,Digital Wallet
+CUST_23282,Lamp,Home & Garden,1,40.72,2025-08-19,Asia Pacific,Cash
+CUST_92185,Snacks,Food & Beverages,2,9.5,2025-08-19,Asia Pacific,Digital Wallet
+cust_23652,Notebook,Office Supplies,1,48.79,2025-08-19,North America,Cash
+CUST_33289,Calculator,Office Supplies,1,57.23,2025-08-19,Middle East,Credit Card
+CUST_87838,Biography,Books,3,35.36,2025-08-19,Africa,PayPal
+CUST_70904,Smart Watch,Electronics,4,1108.55,2025-08-19,North America,Cash
+CUST_37527,Lamp,Home & Garden,2,285.34,2025-08-19,North America,PayPal
+CUST_98459,Fiction Novel,Books,2,36.06,2025-08-19,Latin America,Bank Transfer
+CUST_48553,Toy Car,Toys & Games,2,181.4,2025-08-19,Asia Pacific,Digital Wallet
+CUST_41180,Dress,Clothing,3,165.05,2025-08-18,Middle East,Bank Transfer
+CUST_14732,Car Accessories,Automotive,1,428.78,2025-08-18,,Credit Card
+CUST_46250,Tablet,Electronics,7,1716.48,2025-08-18,Middle East,PayPal
+CUST_1053,Curtains,Home & Garden,3,339.71,2025-08-18,Asia Pacific,PayPal
+CUST_15089,Self-Help Book,Books,1,10.57,2025-08-18,Latin America,Debit Card
+CUST_54609,Tea,Food & Beverages,2,45.04,2025-08-18,North America,Cash
+CUST_65367,Table,Home & Garden,2,427.13,2025-08-18,Middle East,Digital Wallet
+CUST_33513,Coffee,Food & Beverages,3,42.61,2025-08-18,Middle East,PayPal
+CUST_4836,Pen Set,Office Supplies,7,95.8,2025-08-18,Asia Pacific,Debit Card
+CUST_66991,Face Mask,Health & Beauty,1,30.52,2025-08-18,North America,Credit Card
+CUST_96420,Calculator,Office Supplies,2,85.42,2025-08-17,Africa,PayPal
+CUST_25471,Energy Drink,Food & Beverages,3,44.48,2025-08-17,North America,Credit Card
+CUST_13182,Kitchen Set,Home & Garden,3,513.78,2025-08-17,North America,Cash
+CUST_52759,Running Shoes,Sports & Outdoors,1,263.92,2025-08-17,Asia Pacific,Bank Transfer
+cust_9893,Desk Organizer,Office Supplies,3,47.51,2025-08-17,Middle East,PayPal
+CUST_84870,Sweater,Clothing,1,265.54,2025-08-17,Europe,Bank Transfer
+CUST_89166,Chocolate,Food & Beverages,3,33.09,2025-08-17,North America,Credit Card
+CUST_7137,Smartphone,Electronics,1,556.03,2025-08-17,Latin America,Bank Transfer
+CUST_26513,Energy Drink,Food & Beverages,3,27.34,2025-08-17,Asia Pacific,Credit Card
+CUST_37167,Tablet,Electronics,2,219.34,2025-08-16,Latin America,PayPal
+CUST_91235,Fiction Novel,Books,2,22.52,2025-08-16,Africa,Cash
+CUST_50425,Bicycle,Sports & Outdoors,1,224.01,2025-08-16,Middle East,Debit Card
+CUST_41392,Gaming Console,Electronics,1,1361.9,2025-08-16,Africa,Credit Card
+CUST_8736,Plant Pot,Home & Garden,2,682.02,2025-08-16,Latin America,Debit Card
+CUST_96136,Shorts,Clothing,1,80.66,2025-08-16,Africa,Credit Card
+CUST_51769,Organic Food,Food & Beverages,7,49.32,2025-08-16,Asia Pacific,Digital Wallet
+CUST_85661,Gaming Console,Electronics,8,1485.03,2025-08-16,North America,Debit Card
+CUST_98320,GPS Device,Automotive,1,632.87,2025-08-16,Africa,Debit Card
+CUST_4104,Spices,Food & Beverages,2,39.88,2025-08-16,Middle East,Bank Transfer
+CUST_26830,Tea,Food & Beverages,2,21.46,2025-08-16,Latin America,Credit Card
+CUST_93993,Coffee,Food & Beverages,1,15.92,2025-08-16,Latin America,Credit Card
+CUST_41392,Gaming Console,Electronics,1,1361.9,2025-08-16,Africa,Credit Card
+CUST_99295,Car Accessories,Automotive,8,198.56,2025-08-15,Africa,Cash
+CUST_10188,T-Shirt,Clothing,1,161.24,2025-08-15,Africa,Debit Card
+CUST_10333,Cookbook,Books,1,37.53,2025-08-15,North America,Cash
+CUST_52980,T-Shirt,Clothing,3,114.09,2025-08-15,Europe,Credit Card
+CUST_82889,Plant Pot,Home & Garden,2,94.22,2025-08-15,Africa,Cash
+CUST_81528,Tea,Food & Beverages,2,18.7,2025-08-15,North America,Credit Card
+CUST_24195,Chocolate,Food & Beverages,1,24.39,2025-08-15,Latin America,PayPal
+CUST_87742,Board Game,Toys & Games,1,140.35,2025-08-15,Middle East,Debit Card
+CUST_62912,Textbook,Books,1,13.31,2025-08-15,Europe,Digital Wallet
+CUST_77735,Coffee,Food & Beverages,2,13.09,2025-08-15,Africa,Cash
+CUST_57621,Lamp,Home & Garden,1,66.72,2025-08-15,Africa,PayPal
+CUST_81222,Gym Equipment,Sports & Outdoors,1,431.31,2025-08-15,Latin America,Debit Card
+CUST_93190,Car Accessories,Automotive,1,366.35,2025-08-15,Europe,PayPal
+CUST_34802,Stapler,Office Supplies,1,6.94,2025-08-15,Europe,Cash
+CUST_63394,Car Parts,Automotive,1,458.64,2025-08-15,Europe,Credit Card
+CUST_58657,Smart Watch,Electronics,1,956.24,2025-08-15,North America,Cash
+CUST_65110,Motor Oil,Automotive,3,667.23,2025-08-15,Latin America,Credit Card
+CUST_24342,Magazine,Books,3,73.08,2025-08-15,Middle East,Debit Card
+CUST_92394,Smartphone,Electronics,1,1303.66,2025-08-15,Europe,Bank Transfer
+CUST_2962,Doll,Toys & Games,1,53.23,2025-08-15,Africa,Digital Wallet
+CUST_19776,Headphones,Electronics,6,875.86,2025-08-14,Africa,PayPal
+CUST_98689,Skincare Set,Health & Beauty,1,75.57,2025-08-14,North America,Cash
+CUST_99216,Tea,Food & Beverages,1,48.48,2025-08-14,Middle East,PayPal
+CUST_13771,Face Mask,Health & Beauty,2,72.26,2025-08-14,Africa,Debit Card
+CUST_80266,Doll,Toys & Games,2,115.03,2025-08-14,Europe,Credit Card
+CUST_25937,Makeup Kit,Health & Beauty,1,91.42,2025-08-14,Latin America,Digital Wallet
+CUST_94698,Table,Home & Garden,2,498.15,2025-08-14,Latin America,Debit Card
+CUST_98095,Dress,Clothing,1,31.73,2025-08-14,Europe,Digital Wallet
+CUST_9970,Water Bottle,Sports & Outdoors,5,202.04,2025-08-14,North America,Bank Transfer
+CUST_72037,Calculator,Office Supplies,1,50.77,2025-08-14,Europe,Cash
+CUST_64639,Camera,Electronics,1,450.06,2025-08-13,Europe,Cash
+CUST_49121,Jacket,Clothing,2,167.01,2025-08-13,Latin America,Digital Wallet
+CUST_92650,Spices,Food & Beverages,2,36.03,2025-08-13,Africa,Digital Wallet
+CUST_58033,Curtains,Home & Garden,1,634.75,2025-08-13,Africa,PayPal
+CUST_33483,Kitchen Set,Home & Garden,1,377.53,2025-08-13,Latin America,Cash
+CUST_89784,Chair,Home & Garden,3,508.62,2025-08-13,Latin America,Debit Card
+CUST_7784,Curtains,Home & Garden,1,678.2,2025-08-13,North America,Debit Card
+CUST_76887,Headphones,Electronics,4,1395.56,2025-08-13,North America,Credit Card
+CUST_16541,Cookbook,Books,1,48.09,2025-08-13,Middle East,Digital Wallet
+CUST_67680,Car Charger,Automotive,1,941.46,2025-08-13,Latin America,Cash
+CUST_49281,Biography,Books,2,67.1,2025-08-13,Asia Pacific,Digital Wallet
+CUST_26302,Dress,Clothing,5,142.86,2025-08-13,Africa,Credit Card
+CUST_14055,Building Blocks,Toys & Games,8,195.6,2025-08-13,Asia Pacific,Bank Transfer
+CUST_89706,GPS Device,Automotive,3,694.57,2025-08-12,Middle East,Digital Wallet
+CUST_64359,Shoes,Clothing,1,33.21,2025-08-12,North America,Digital Wallet
+CUST_58375,Smart Watch,Electronics,7,1256.3,2025-08-12,Europe,Debit Card
+CUST_47665,Hair Dryer,Health & Beauty,1,84.05,2025-08-12,North America,
+CUST_86404,Water Bottle,Sports & Outdoors,2,119.23,2025-08-12,Latin America,Cash
+CUST_9826,Vitamins,Health & Beauty,2,121.62,2025-08-12,Asia Pacific,Bank Transfer
+CUST_24419,Chair,Home & Garden,2,256.54,2025-08-12,Africa,Cash
+CUST_64818,Curtains,Home & Garden,1,347.25,2025-08-12,Asia Pacific,Debit Card
+CUST_1728,Motor Oil,Automotive,6,612.5,2025-08-12,Middle East,Digital Wallet
+CUST_88703,Vitamins,Health & Beauty,2,85.21,2025-08-12,North America,Cash
+CUST_87944,Makeup Kit,Health & Beauty,2,133.44,2025-08-12,Asia Pacific,PayPal
+CUST_91568,Shorts,Clothing,1,198.03,2025-08-12,Latin America,PayPal
+CUST_78004,Table,Home & Garden,2,234.0,2025-08-12,Latin America,Bank Transfer
+CUST_20213,Tablet,Electronics,2,1566.68,2025-08-12,Asia Pacific,Debit Card
+CUST_32508,Car Parts,Automotive,2,424.53,2025-08-12,Latin America,Cash
+CUST_18122,Plant Pot,Home & Garden,6,428.94,2025-08-12,Africa,Cash
+CUST_9139,Jeans,Clothing,1,227.61,2025-08-12,Asia Pacific,PayPal
+CUST_43823,Kitchen Set,Home & Garden,2,164.35,2025-08-12,Africa,Cash
+CUST_18154,Makeup Kit,Health & Beauty,5,45.72,2025-08-12,Africa,Digital Wallet
+CUST_44103,Sofa,Home & Garden,2,303.44,2025-08-12,North America,Debit Card
+CUST_46753,Fiction Novel,Books,2,60.6,2025-08-12,Africa,Digital Wallet
+CUST_32992,Running Shoes,Sports & Outdoors,1,210.38,2025-08-12,North America,Cash
+CUST_85957,Dress,Clothing,1,281.82,2025-08-11,Asia Pacific,Credit Card
+CUST_63558,Backpack,Sports & Outdoors,1,385.61,2025-08-11,Latin America,Credit Card
+CUST_48444,Organic Food,Food & Beverages,1,39.92,2025-08-11,Asia Pacific,Debit Card
+CUST_10606,Table,Home & Garden,3,141.0,2025-08-11,Europe,Cash
+CUST_71435,Action Figure,Toys & Games,6,103.49,2025-08-11,Africa,Digital Wallet
+CUST_3046,Plant Pot,Home & Garden,2,388.09,2025-08-11,Middle East,Cash
+CUST_5322,Kitchen Set,Home & Garden,4,245.9,2025-08-11,Middle East,Digital Wallet
+CUST_53491,Shorts,Clothing,1,213.51,2025-08-11,Africa,Credit Card
+CUST_66282,Hair Dryer,Health & Beauty,3,127.02,2025-08-11,Latin America,PayPal
+CUST_28312,Face Mask,Health & Beauty,1,41.13,2025-08-11,Middle East,Cash
+CUST_6210,Kitchen Set,Home & Garden,1,114.78,2025-08-11,Europe,Debit Card
+CUST_60132,Spices,Food & Beverages,1,49.19,2025-08-11,Asia Pacific,Cash
+CUST_24461,Perfume,Health & Beauty,1,81.68,2025-08-10,Asia Pacific,Digital Wallet
+CUST_4873,Fiction Novel,Books,2,23.5,2025-08-10,Middle East,Credit Card
+CUST_82239,Chocolate,Food & Beverages,4,9.27,2025-08-10,Middle East,Digital Wallet
+CUST_68024,Motor Oil,Automotive,3,892.77,2025-08-10,Asia Pacific,Cash
+CUST_59518,GPS Device,Automotive,3,444.97,2025-08-10,Asia Pacific,PayPal
+CUST_72403,Hair Dryer,Health & Beauty,1,138.59,2025-08-10,Asia Pacific,Debit Card
+CUST_78070,Shorts,Clothing,1,146.04,2025-08-10,Asia Pacific,PayPal
+CUST_49887,Coffee,Food & Beverages,5,37.94,2025-08-10,Asia Pacific,Digital Wallet
+CUST_26212,Stapler,Office Supplies,3,40.1,2025-08-10,Europe,Digital Wallet
+CUST_74914,Hair Dryer,Health & Beauty,1,131.14,2025-08-10,Europe,PayPal
+CUST_85689,T-Shirt,Clothing,2,15.59,2025-08-10,North America,Debit Card
+CUST_34303,Desk Organizer,Office Supplies,4,74.3,2025-08-10,Europe,Cash
+CUST_13009,Doll,Toys & Games,2,170.55,2025-08-10,Europe,Bank Transfer
+CUST_55767,Jeans,Clothing,3,235.52,2025-08-10,Middle East,Bank Transfer
+CUST_43310,Textbook,Books,1,51.05,2025-08-10,North America,Credit Card
+CUST_81806,Bicycle,Sports & Outdoors,5,204.0,2025-08-09,Asia Pacific,Debit Card
+CUST_63068,Desk Organizer,Office Supplies,1,51.7,2025-08-09,Africa,PayPal
+CUST_28218,Car Charger,Automotive,1,876.12,2025-08-09,Latin America,Cash
+CUST_42879,Jacket,Clothing,2,113.84,2025-08-09,Europe,Digital Wallet
+CUST_40713,Car Parts,Automotive,2,380.8,2025-08-09,Africa,Cash
+CUST_55816,Hat,Clothing,3,58.39,2025-08-09,Latin America,Debit Card
+CUST_14681,Face Mask,Health & Beauty,2,84.88,2025-08-09,North America,PayPal
+CUST_18981,Hair Dryer,Health & Beauty,2,130.6,2025-08-09,Africa,PayPal
+CUST_32161,Skincare Set,Health & Beauty,3,147.87,2025-08-09,Africa,Cash
+CUST_16868,Tire,Automotive,2,670.1,2025-08-09,Asia Pacific,Bank Transfer
+CUST_87168,Shorts,Clothing,1,213.1,2025-08-09,Europe,Cash
+CUST_56057,Hat,Clothing,1,18.61,2025-08-08,Latin America,Credit Card
+CUST_25690,Sweater,Clothing,1,108.71,2025-08-08,North America,Cash
+CUST_87916,Chocolate,Food & Beverages,1,17.38,2025-08-08,Europe,Digital Wallet
+CUST_69269,Calculator,Office Supplies,6,11.88,2025-08-08,Africa,PayPal
+CUST_99500,Car Accessories,Automotive,5,196.7,2025-08-08,Asia Pacific,PayPal
+CUST_64123,Vitamins,Health & Beauty,4,41.97,2025-08-08,Latin America,Bank Transfer
+CUST_1269,Bicycle,Sports & Outdoors,1,346.27,2025-08-08,Europe,Digital Wallet
+CUST_15273,Makeup Kit,Health & Beauty,3,40.49,2025-08-08,Latin America,Digital Wallet
+CUST_61645,Snacks,Food & Beverages,2,14.2,2025-08-08,Middle East,Cash
+CUST_26688,Puzzle,Toys & Games,1,134.88,2025-08-08,Middle East,PayPal
+CUST_28248,Hair Dryer,Health & Beauty,2,59.83,2025-08-07,Latin America,Bank Transfer
+CUST_60153,Kitchen Set,Home & Garden,2,389.14,2025-08-07,Europe,Debit Card
+CUST_44076,Gym Equipment,Sports & Outdoors,1,419.09,2025-08-07,Middle East,Digital Wallet
+CUST_62718,Action Figure,Toys & Games,3,180.62,2025-08-07,Middle East,PayPal
+CUST_33547,Textbook,Books,3,53.24,2025-08-07,Asia Pacific,Cash
+CUST_31947,Makeup Kit,Health & Beauty,2,70.96,2025-08-07,Asia Pacific,
+CUST_35744,Magazine,Books,2,50.84,2025-08-07,Latin America,Digital Wallet
+CUST_30919,Smartphone,Electronics,1,1166.26,2025-08-07,Latin America,Debit Card
+CUST_92678,Sweater,Clothing,3,298.24,2025-08-07,Latin America,PayPal
+CUST_17617,Jeans,Clothing,2,242.03,2025-08-07,North America,Debit Card
+CUST_44731,Coffee,Food & Beverages,1,8.24,2025-08-06,Europe,Bank Transfer
+CUST_41216,Hair Dryer,Health & Beauty,1,25.08,2025-08-06,Latin America,Digital Wallet
+CUST_41295,Biography,Books,1,31.17,2025-08-06,Europe,Credit Card
+CUST_35801,Hair Dryer,Health & Beauty,2,36.42,2025-08-06,Africa,Debit Card
+CUST_48851,Video Game,Toys & Games,1,153.41,2025-08-06,Latin America,PayPal
+CUST_18603,Puzzle,Toys & Games,2,169.94,2025-08-06,Africa,Digital Wallet
+CUST_19052,Car Parts,Automotive,1,563.9,2025-08-06,Middle East,Bank Transfer
+CUST_30136,Yoga Mat,Sports & Outdoors,2,290.46,2025-08-06,Latin America,Debit Card
+CUST_49226,Tire,Automotive,2,162.61,2025-08-06,Africa,Cash
+CUST_36116,Perfume,Health & Beauty,10,113.35,2025-08-06,Europe,Credit Card
+CUST_58045,Spices,Food & Beverages,4,32.74,2025-08-05,Europe,Digital Wallet
+CUST_45007,Spices,Food & Beverages,1,23.41,2025-08-05,Latin America,PayPal
+CUST_48211,Headphones,Electronics,1,1467.44,2025-08-05,Europe,Credit Card
+CUST_4240,Car Charger,Automotive,1,587.51,2025-08-05,North America,Digital Wallet
+CUST_62516,Car Accessories,Automotive,2,578.81,2025-08-05,Europe,Cash
+CUST_50775,Car Charger,Automotive,2,743.85,2025-08-05,Latin America,Debit Card
+CUST_98182,Curtains,Home & Garden,4,121.22,2025-08-05,Latin America,Debit Card
+CUST_18703,Desk Organizer,Office Supplies,2,24.96,2025-08-05,Europe,Digital Wallet
+CUST_72331,Bicycle,Sports & Outdoors,2,314.58,2025-08-05,North America,Credit Card
+CUST_54841,Tablet,Electronics,3,282.42,2025-08-05,Latin America,Bank Transfer
+CUST_3830,Calculator,Office Supplies,1,41.45,2025-08-05,Middle East,Credit Card
+CUST_10816,Perfume,Health & Beauty,2,65.52,2025-08-05,Africa,Digital Wallet
+CUST_86462,Laptop,Electronics,2,1264.36,2025-08-05,Latin America,Credit Card
+CUST_6504,Toy Car,Toys & Games,1,57.7,2025-08-05,Middle East,Digital Wallet
+cust_50775,Car Charger,Automotive,2,743.85,2025-08-05,Latin America,Debit Card
+CUST_14936,Shoes,Clothing,2,263.41,2025-08-04,Latin America,Cash
+CUST_66174,Table,Home & Garden,1,720.06,2025-08-04,Europe,Debit Card
+CUST_61308,Board Game,Toys & Games,5,15.63,2025-08-04,Asia Pacific,Cash
+CUST_33926,Hair Dryer,Health & Beauty,3,61.18,2025-08-04,Europe,Cash
+CUST_59962,Tablet,Electronics,8,1590.79,2025-08-04,Latin America,PayPal
+CUST_4826,Puzzle,Toys & Games,4,102.88,2025-08-04,Latin America,Digital Wallet
+CUST_89250,Shampoo,Health & Beauty,1,85.75,2025-08-04,Europe,Credit Card
+CUST_94863,Chocolate,Food & Beverages,1,21.41,2025-08-04,Latin America,Debit Card
+CUST_1730,Calculator,Office Supplies,1,42.43,2025-08-04,Asia Pacific,Digital Wallet
+CUST_66546,Backpack,Sports & Outdoors,1,264.38,2025-08-03,North America,Credit Card
+CUST_58766,Children Book,Books,1,77.74,2025-08-03,Asia Pacific,Debit Card
+CUST_4393,Calculator,Office Supplies,1,8.35,2025-08-03,Middle East,Debit Card
+CUST_25800,Building Blocks,Toys & Games,2,30.04,2025-08-03,North America,Cash
+CUST_41595,T-Shirt,Clothing,7,245.72,2025-08-03,Middle East,Credit Card
+CUST_90714,Action Figure,Toys & Games,3,61.02,2025-08-03,Africa,PayPal
+CUST_32294,Biography,Books,1,41.58,2025-08-03,Asia Pacific,Cash
+CUST_13648,Children Book,Books,2,10.72,2025-08-03,North America,Cash
+CUST_18851,Laptop,Electronics,6,1840.23,2025-08-03,Africa,Cash
+CUST_1906,Organic Food,Food & Beverages,1,22.82,2025-08-03,Asia Pacific,Digital Wallet
+CUST_76938,Puzzle,Toys & Games,3,136.31,2025-08-03,Africa,Credit Card
+CUST_56177,Magazine,Books,4,44.55,2025-08-03,Europe,Credit Card
+CUST_13086,Sofa,Home & Garden,2,366.17,2025-08-03,Middle East,Credit Card
+CUST_47969,Board Game,Toys & Games,10,34.9,2025-08-03,Middle East,PayPal
+CUST_96176,Jeans,Clothing,1,171.63,2025-08-03,Middle East,Cash
+CUST_93933,Car Parts,Automotive,3,458.27,2025-08-02,Middle East,Bank Transfer
+CUST_39816,Biography,Books,5,33.62,2025-08-02,North America,Cash
+CUST_43813,Cookbook,Books,4,32.53,2025-08-02,Africa,Bank Transfer
+CUST_86459,Magazine,Books,3,14.57,2025-08-02,Asia Pacific,Debit Card
+CUST_83720,Snacks,Food & Beverages,3,33.57,2025-08-02,Middle East,Bank Transfer
+CUST_82962,Bicycle,Sports & Outdoors,2,58.02,2025-08-02,Europe,Cash
+CUST_73942,Car Parts,Automotive,4,232.84,2025-08-02,Asia Pacific,Digital Wallet
+CUST_88098,Shampoo,Health & Beauty,2,19.7,2025-08-02,Africa,Debit Card
+CUST_90394,T-Shirt,Clothing,3,228.35,2025-08-02,Africa,Bank Transfer
+CUST_69968,Car Charger,Automotive,2,255.19,2025-08-02,Latin America,Digital Wallet
+CUST_9817,Smartphone,Electronics,1,1612.33,2025-08-02,Middle East,Bank Transfer
+CUST_22499,Chocolate,Food & Beverages,3,48.94,2025-08-02,North America,Bank Transfer
+CUST_91419,Yoga Mat,Sports & Outdoors,1,417.48,2025-08-02,Asia Pacific,Debit Card
+cust_32785,Car Charger,Automotive,4,907.76,2025-08-02,Asia Pacific,Digital Wallet
+CUST_85086,Organic Food,Food & Beverages,3,28.98,2025-08-02,Africa,Debit Card
+CUST_94562,T-Shirt,Clothing,1,260.31,2025-08-02,Africa,Bank Transfer
+CUST_61903,Fiction Novel,Books,2,61.39,2025-08-02,Africa,Digital Wallet
+CUST_76784,Stapler,Office Supplies,7,49.77,2025-08-01,North America,Debit Card
+CUST_82460,Magazine,Books,4,39.75,2025-08-01,Asia Pacific,Bank Transfer
+CUST_51493,Calculator,Office Supplies,7,79.09,2025-08-01,North America,PayPal
+CUST_84877,Yoga Mat,Sports & Outdoors,2,101.11,2025-08-01,Africa,Bank Transfer
+CUST_71972,Snacks,Food & Beverages,4,27.09,2025-08-01,Middle East,Bank Transfer
+CUST_1726,Yoga Mat,Sports & Outdoors,3,334.91,2025-08-01,North America,Bank Transfer
+CUST_97029,Tire,Automotive,3,767.11,2025-08-01,Europe,Credit Card
+CUST_21656,Backpack,Sports & Outdoors,2,44.26,2025-08-01,Latin America,Cash
+CUST_67924,Snacks,Food & Beverages,3,32.28,2025-08-01,Europe,Digital Wallet
+CUST_70603,Skincare Set,Health & Beauty,1,134.66,2025-08-01,Europe,Credit Card
+CUST_27840,Face Mask,Health & Beauty,3,39.79,2025-07-31,North America,Digital Wallet
+CUST_7765,GPS Device,Automotive,2,194.01,2025-07-31,Africa,PayPal
+CUST_58482,Laptop,Electronics,2,160.48,2025-07-31,Europe,PayPal
+CUST_54684,Chair,Home & Garden,2,785.01,2025-07-31,Europe,Credit Card
+CUST_2447,Car Parts,Automotive,1,387.59,2025-07-31,Europe,PayPal
+CUST_93237,Toy Car,Toys & Games,3,40.64,2025-07-31,Europe,PayPal
+CUST_52733,Energy Drink,Food & Beverages,1,22.14,2025-07-31,Africa,PayPal
+CUST_31475,Action Figure,Toys & Games,1,59.85,2025-07-31,North America,PayPal
+CUST_88551,Headphones,Electronics,2,201.73,2025-07-31,Middle East,Cash
+CUST_67916,Running Shoes,Sports & Outdoors,1,273.46,2025-07-31,Europe,Bank Transfer
+CUST_72351,Jacket,Clothing,2,16.26,2025-07-31,Latin America,Debit Card
+CUST_31753,Snacks,Food & Beverages,3,45.37,2025-07-31,Middle East,Debit Card
+CUST_79250,TV,Electronics,1,1606.03,2025-07-31,Europe,Credit Card
+CUST_66465,Children Book,Books,2,56.98,2025-07-30,Africa,Debit Card
+CUST_88704,Tablet,Electronics,2,1320.1,2025-07-30,Asia Pacific,Debit Card
+CUST_3368,Skincare Set,Health & Beauty,2,39.43,2025-07-30,Africa,PayPal
+CUST_76552,Pen Set,Office Supplies,4,32.4,2025-07-30,Latin America,Digital Wallet
+CUST_70361,Makeup Kit,Health & Beauty,1,74.91,2025-07-30,Latin America,Digital Wallet
+CUST_8329,Desk Organizer,Office Supplies,3,10.61,2025-07-30,Asia Pacific,PayPal
+CUST_71210,Desk Organizer,Office Supplies,1,80.73,2025-07-30,Africa,Digital Wallet
+CUST_72529,Toy Car,Toys & Games,1,161.93,2025-07-30,Asia Pacific,Digital Wallet
+CUST_31382,Gym Equipment,Sports & Outdoors,1,72.18,2025-07-30,Europe,PayPal
+CUST_17021,Energy Drink,Food & Beverages,1,19.83,2025-07-30,Latin America,PayPal
+CUST_66008,Headphones,Electronics,2,1157.66,2025-07-30,Latin America,Digital Wallet
+CUST_86551,Magazine,Books,4,22.21,2025-07-30,Africa,Bank Transfer
+CUST_13652,Vitamins,Health & Beauty,1,76.3,2025-07-30,Europe,Credit Card
+CUST_59857,Self-Help Book,Books,1,40.59,2025-07-30,North America,Cash
+CUST_27467,GPS Device,Automotive,1,899.72,2025-07-30,Latin America,Credit Card
+CUST_21002,Face Mask,Health & Beauty,2,131.15,2025-07-30,Europe,Debit Card
+CUST_86892,Doll,Toys & Games,1,166.51,2025-07-29,North America,Bank Transfer
+CUST_59316,Tablet,Electronics,2,52.14,2025-07-29,North America,Credit Card
+CUST_68037,Smart Watch,Electronics,1,1450.83,2025-07-29,Asia Pacific,PayPal
+CUST_35758,Chair,Home & Garden,3,57.62,2025-07-29,North America,Digital Wallet
+CUST_88194,Lamp,Home & Garden,3,759.99,2025-07-29,Asia Pacific,Credit Card
+CUST_48340,Cookbook,Books,1,65.98,2025-07-29,Africa,Credit Card
+cust_79021,Hair Dryer,Health & Beauty,1,53.9,2025-07-29,Middle East,Digital Wallet
+CUST_15928,Children Book,Books,5,25.53,2025-07-29,Asia Pacific,Digital Wallet
+CUST_62728,Fiction Novel,Books,2,21.65,2025-07-29,Asia Pacific,Cash
+CUST_77703,Self-Help Book,Books,1,48.81,2025-07-29,Africa,Credit Card
+CUST_5044,Motor Oil,Automotive,1,110.19,2025-07-29,Europe,PayPal
+CUST_81244,Textbook,Books,7,77.52,2025-07-29,Latin America,Bank Transfer
+CUST_86391,Board Game,Toys & Games,2,22.54,2025-07-29,Asia Pacific,Credit Card
+CUST_74385,Water Bottle,Sports & Outdoors,3,69.34,2025-07-29,Latin America,Cash
+CUST_52111,Printer Paper,Office Supplies,2,3.62,2025-07-29,North America,Credit Card
+CUST_55143,Printer Paper,Office Supplies,3,52.04,2025-07-29,Europe,Digital Wallet
+CUST_18443,Self-Help Book,Books,2,37.59,2025-07-29,Middle East,PayPal
+CUST_3132,Smartphone,Electronics,1,707.91,2025-07-29,North America,Bank Transfer
+CUST_61005,Organic Food,Food & Beverages,1,33.81,2025-07-28,Asia Pacific,Cash
+CUST_67448,Gym Equipment,Sports & Outdoors,2,468.68,2025-07-28,North America,Bank Transfer
+CUST_32142,Plant Pot,Home & Garden,1,249.48,2025-07-28,North America,PayPal
+CUST_30555,Toy Car,Toys & Games,1,36.19,2025-07-28,Asia Pacific,Credit Card
+CUST_56856,Curtains,Home & Garden,1,241.48,2025-07-28,North America,Bank Transfer
+CUST_12668,Spices,Food & Beverages,4,12.72,2025-07-28,Latin America,Credit Card
+CUST_81168,Sofa,Home & Garden,4,677.82,2025-07-28,Europe,Credit Card
+CUST_72626,Toy Car,Toys & Games,5,60.68,2025-07-28,Latin America,
+CUST_56301,Biography,Books,6,76.57,2025-07-28,Asia Pacific,Digital Wallet
+CUST_90710,Sofa,Home & Garden,4,348.16,2025-07-28,North America,Cash
+CUST_79265,Action Figure,Toys & Games,1,174.99,2025-07-28,Africa,PayPal
+CUST_18271,Printer Paper,Office Supplies,1,46.57,2025-07-28,Europe,Digital Wallet
+CUST_36002,Shoes,Clothing,1,255.34,2025-07-28,Latin America,Cash
+CUST_43611,Lamp,Home & Garden,1,719.95,2025-07-27,Africa,PayPal
+CUST_41901,Jacket,Clothing,7,140.35,2025-07-27,Middle East,Cash
+CUST_67479,Skincare Set,Health & Beauty,2,55.3,2025-07-27,Latin America,PayPal
+CUST_37428,Calculator,Office Supplies,1,24.55,2025-07-27,Europe,Credit Card
+CUST_25095,Tea,Food & Beverages,1,48.45,2025-07-27,Latin America,Digital Wallet
+CUST_35449,Sweater,Clothing,2,159.19,2025-07-27,Africa,Credit Card
+CUST_45291,Notebook,Office Supplies,2,57.27,2025-07-26,Asia Pacific,Debit Card
+CUST_21510,Self-Help Book,Books,5,22.03,2025-07-26,North America,Cash
+CUST_68146,Textbook,Books,2,24.88,2025-07-26,North America,Credit Card
+CUST_9398,Table,Home & Garden,2,298.76,2025-07-26,Middle East,Debit Card
+CUST_59250,Plant Pot,Home & Garden,1,632.64,2025-07-26,Europe,PayPal
+CUST_5582,Desk Organizer,Office Supplies,1,49.94,2025-07-26,North America,Debit Card
+CUST_28517,Hair Dryer,Health & Beauty,3,127.04,2025-07-26,Latin America,Digital Wallet
+CUST_15251,Makeup Kit,Health & Beauty,2,74.28,2025-07-26,Africa,Credit Card
+CUST_33364,Hair Dryer,Health & Beauty,1,77.7,2025-07-26,Africa,PayPal
+CUST_34313,Table,Home & Garden,2,42.16,2025-07-26,North America,Bank Transfer
+CUST_6144,Organic Food,Food & Beverages,9,49.27,2025-07-26,Middle East,Bank Transfer
+CUST_13062,Magazine,Books,2,15.83,2025-07-26,Asia Pacific,Debit Card
+CUST_51038,Biography,Books,2,53.53,2025-07-26,Latin America,Credit Card
+CUST_84929,Face Mask,Health & Beauty,4,113.99,2025-07-25,Latin America,Credit Card
+CUST_98836,Motor Oil,Automotive,1,263.16,2025-07-25,Africa,PayPal
+CUST_99664,Snacks,Food & Beverages,1,25.44,2025-07-25,Latin America,Cash
+CUST_30087,Shorts,Clothing,4,153.59,2025-07-25,Africa,Bank Transfer
+CUST_20181,Desk Organizer,Office Supplies,1,55.13,2025-07-25,Asia Pacific,Cash
+CUST_98932,Sofa,Home & Garden,3,272.24,2025-07-25,Middle East,Cash
+CUST_40351,Doll,Toys & Games,1,172.56,2025-07-25,Middle East,Cash
+CUST_72448,Board Game,Toys & Games,5,186.37,2025-07-25,Latin America,Debit Card
+CUST_25927,Sweater,Clothing,1,18.96,2025-07-25,Africa,Credit Card
+CUST_54668,Desk Organizer,Office Supplies,2,11.58,2025-07-25,Africa,PayPal
+CUST_52814,Calculator,Office Supplies,1,24.55,2025-07-24,North America,Cash
+CUST_34483,GPS Device,Automotive,3,527.12,2025-07-24,Middle East,Digital Wallet
+CUST_11905,Face Mask,Health & Beauty,1,105.37,2025-07-24,Latin America,Credit Card
+CUST_60412,Smartphone,Electronics,3,893.03,2025-07-24,Latin America,Credit Card
+CUST_57345,Textbook,Books,1,39.37,2025-07-24,North America,Digital Wallet
+CUST_23375,Snacks,Food & Beverages,1,38.2,2025-07-24,North America,PayPal
+CUST_85377,Face Mask,Health & Beauty,3,9.87,2025-07-24,Middle East,Bank Transfer
+CUST_6996,Perfume,Health & Beauty,1,140.2,2025-07-24,Asia Pacific,Digital Wallet
+CUST_21174,Bedding,Home & Garden,1,118.0,2025-07-24,Latin America,Digital Wallet
+CUST_62350,Hair Dryer,Health & Beauty,1,71.94,2025-07-24,North America,Debit Card
+CUST_22532,GPS Device,Automotive,1,865.95,2025-07-24,North America,PayPal
+CUST_59126,Running Shoes,Sports & Outdoors,4,312.6,2025-07-24,Asia Pacific,Debit Card
+CUST_46702,Chair,Home & Garden,1,331.82,2025-07-24,Asia Pacific,Debit Card
+CUST_32520,Lamp,Home & Garden,3,644.18,2025-07-23,North America,Cash
+CUST_23902,Backpack,Sports & Outdoors,8,276.81,2025-07-23,Europe,Credit Card
+CUST_80997,Gym Equipment,Sports & Outdoors,2,243.06,2025-07-23,Africa,Bank Transfer
+CUST_58627,Face Mask,Health & Beauty,3,91.69,2025-07-23,Africa,Credit Card
+CUST_57084,Board Game,Toys & Games,1,111.54,2025-07-23,Latin America,Bank Transfer
+CUST_30216,Shampoo,Health & Beauty,1,148.26,2025-07-23,Asia Pacific,Debit Card
+CUST_24971,Chocolate,Food & Beverages,1,30.21,2025-07-23,Africa,Credit Card
+CUST_99569,Spices,Food & Beverages,4,20.98,2025-07-23,Latin America,PayPal
+CUST_69472,Doll,Toys & Games,1,138.97,2025-07-23,Africa,Digital Wallet
+cust_48044,Calculator,Office Supplies,5,93.7,2025-07-23,Asia Pacific,Digital Wallet
+CUST_59822,Coffee,Food & Beverages,1,5.24,2025-07-23,Latin America,Cash
+CUST_77372,Notebook,Office Supplies,5,85.04,2025-07-23,Africa,Bank Transfer
+CUST_29238,Bicycle,Sports & Outdoors,6,486.59,2025-07-23,Latin America,Digital Wallet
+CUST_33426,Chocolate,Food & Beverages,2,5.97,2025-07-23,Middle East,PayPal
+CUST_46240,Gym Equipment,Sports & Outdoors,2,351.33,2025-07-23,North America,Credit Card
+CUST_94959,Magazine,Books,1,17.43,2025-07-23,North America,Credit Card
+CUST_13465,Chocolate,Food & Beverages,3,6.14,2025-07-23,North America,Debit Card
+CUST_54113,Self-Help Book,Books,2,28.37,2025-07-23,Middle East,PayPal
+CUST_33873,Tablet,Electronics,4,715.63,2025-07-23,Europe,PayPal
+CUST_53450,Motor Oil,Automotive,1,618.56,2025-07-23,Africa,Cash
+CUST_80207,Tire,Automotive,1,65.71,2025-07-23,North America,Bank Transfer
+CUST_65418,Gym Equipment,Sports & Outdoors,5,127.42,2025-07-23,Middle East,PayPal
+CUST_63018,Toy Car,Toys & Games,1,181.88,2025-07-23,Africa,PayPal
+CUST_37075,Textbook,Books,1,74.34,2025-07-23,North America,Digital Wallet
+CUST_30154,Organic Food,Food & Beverages,1,30.11,2025-07-22,Asia Pacific,Bank Transfer
+CUST_5373,Energy Drink,Food & Beverages,1,32.3,2025-07-22,Europe,Credit Card
+CUST_30847,GPS Device,Automotive,6,942.56,2025-07-22,North America,Digital Wallet
+CUST_24568,Snacks,Food & Beverages,1,22.48,2025-07-22,North America,PayPal
+CUST_77751,Printer Paper,Office Supplies,1,37.48,2025-07-22,North America,Cash
+CUST_74663,Building Blocks,Toys & Games,5,70.02,2025-07-22,Europe,Bank Transfer
+CUST_68809,Sofa,Home & Garden,2,581.16,2025-07-22,North America,Credit Card
+CUST_45757,Gaming Console,Electronics,2,1519.69,2025-07-22,Latin America,Debit Card
+CUST_52587,Printer Paper,Office Supplies,2,33.42,2025-07-22,Africa,PayPal
+CUST_42754,Running Shoes,Sports & Outdoors,1,210.95,2025-07-22,Africa,Bank Transfer
+CUST_73030,Lamp,Home & Garden,1,110.94,2025-07-22,North America,Credit Card
+CUST_46591,Sofa,Home & Garden,1,73.35,2025-07-22,Europe,Digital Wallet
+CUST_68611,Kitchen Set,Home & Garden,3,595.99,2025-07-22,Asia Pacific,Digital Wallet
+CUST_31694,Shoes,Clothing,5,161.81,2025-07-22,Europe,PayPal
+CUST_64403,Chocolate,Food & Beverages,3,36.65,2025-07-21,Africa,Credit Card
+CUST_13729,Jacket,Clothing,2,288.77,2025-07-21,North America,Digital Wallet
+CUST_14414,Water Bottle,Sports & Outdoors,1,324.32,2025-07-21,Africa,Cash
+CUST_55068,Action Figure,Toys & Games,3,153.3,2025-07-21,Latin America,Debit Card
+CUST_82574,Skincare Set,Health & Beauty,1,37.57,2025-07-21,Africa,Digital Wallet
+CUST_96270,Dress,Clothing,1,71.8,2025-07-21,Latin America,Digital Wallet
+CUST_11151,Shorts,Clothing,2,47.26,2025-07-21,Europe,Debit Card
+CUST_47413,Vitamins,Health & Beauty,1,77.06,2025-07-21,Europe,Bank Transfer
+CUST_20524,GPS Device,Automotive,1,367.79,2025-07-21,Europe,Cash
+CUST_64677,Laptop,Electronics,6,840.8,2025-07-21,Latin America,Bank Transfer
+CUST_52251,Shoes,Clothing,1,263.07,2025-07-20,North America,Credit Card
+CUST_54213,Energy Drink,Food & Beverages,1,34.13,2025-07-20,North America,Cash
+CUST_17548,Notebook,Office Supplies,3,11.58,2025-07-20,Africa,Debit Card
+CUST_85080,Camera,Electronics,5,1888.79,2025-07-20,Africa,Credit Card
+CUST_39851,Toy Car,Toys & Games,3,158.74,2025-07-20,Middle East,Digital Wallet
+CUST_95866,Spices,Food & Beverages,1,38.46,2025-07-20,Middle East,Debit Card
+CUST_87108,Makeup Kit,Health & Beauty,3,18.31,2025-07-20,Asia Pacific,PayPal
+CUST_65983,Shampoo,Health & Beauty,1,45.29,2025-07-20,Middle East,Cash
+CUST_81531,Tire,Automotive,4,451.38,2025-07-19,Asia Pacific,Cash
+cust_82156,Motor Oil,Automotive,1,63.61,2025-07-19,Middle East,Debit Card
+CUST_7981,Kitchen Set,Home & Garden,1,559.4,2025-07-19,Europe,Cash
+CUST_42830,Makeup Kit,Health & Beauty,6,144.97,2025-07-19,Asia Pacific,Digital Wallet
+CUST_79027,Shampoo,Health & Beauty,5,142.1,2025-07-19,Middle East,PayPal
+CUST_30979,Toy Car,Toys & Games,1,148.58,2025-07-19,Asia Pacific,Bank Transfer
+CUST_64470,Shorts,Clothing,3,230.35,2025-07-19,Africa,Credit Card
+CUST_65777,Motor Oil,Automotive,3,990.75,2025-07-19,Latin America,Bank Transfer
+cust_90510,Self-Help Book,Books,2,25.39,2025-07-19,Middle East,Digital Wallet
+CUST_47704,Laptop,Electronics,5,866.45,2025-07-19,Asia Pacific,Digital Wallet
+CUST_79094,Backpack,Sports & Outdoors,5,383.22,2025-07-19,North America,Credit Card
+CUST_46408,Desk Organizer,Office Supplies,2,93.83,2025-07-19,Latin America,Digital Wallet
+CUST_10864,Car Charger,Automotive,4,297.34,2025-07-19,Latin America,Cash
+CUST_57401,Biography,Books,1,29.33,2025-07-19,Africa,Cash
+CUST_41159,Car Parts,Automotive,1,471.14,2025-07-19,Europe,Bank Transfer
+CUST_15128,Gym Equipment,Sports & Outdoors,3,333.48,2025-07-19,Middle East,Bank Transfer
+CUST_40194,Shoes,Clothing,1,275.7,2025-07-19,Middle East,Bank Transfer
+CUST_51361,Chair,Home & Garden,1,495.77,2025-07-19,Asia Pacific,Digital Wallet
+CUST_7873,Chair,Home & Garden,1,506.12,2025-07-19,Africa,Cash
+CUST_56576,Shoes,Clothing,6,141.29,2025-07-18,Latin America,Cash
+CUST_49125,Chair,Home & Garden,7,679.54,2025-07-18,Latin America,Credit Card
+CUST_43777,Yoga Mat,Sports & Outdoors,2,218.79,2025-07-18,Middle East,Cash
+CUST_82048,Coffee,Food & Beverages,2,33.86,2025-07-18,North America,Digital Wallet
+CUST_20104,Video Game,Toys & Games,1,16.23,2025-07-18,Europe,PayPal
+CUST_25848,Building Blocks,Toys & Games,5,79.66,2025-07-18,North America,PayPal
+CUST_58852,Skincare Set,Health & Beauty,3,80.65,2025-07-18,North America,Credit Card
+CUST_31609,Sofa,Home & Garden,2,426.91,2025-07-18,Asia Pacific,Debit Card
+CUST_88614,Magazine,Books,4,27.1,2025-07-18,Middle East,Cash
+CUST_99507,Smart Watch,Electronics,2,972.81,2025-07-18,Latin America,Credit Card
+CUST_45346,Curtains,Home & Garden,3,352.15,2025-07-18,Europe,Bank Transfer
+CUST_84481,Makeup Kit,Health & Beauty,6,80.8,2025-07-18,Latin America,Credit Card
+CUST_43800,Puzzle,Toys & Games,1,38.9,2025-07-18,Middle East,PayPal
+CUST_72127,Lamp,Home & Garden,1,356.98,2025-07-18,Middle East,Debit Card
+CUST_8752,Notebook,Office Supplies,1,98.25,2025-07-18,Africa,PayPal
+CUST_81647,Curtains,Home & Garden,1,72.03,2025-07-17,Asia Pacific,Cash
+CUST_49808,Jacket,Clothing,3,43.46,2025-07-17,Europe,Digital Wallet
+CUST_85240,Running Shoes,Sports & Outdoors,1,384.36,2025-07-17,Middle East,PayPal
+CUST_43854,Kitchen Set,Home & Garden,1,493.55,2025-07-17,Europe,PayPal
+CUST_85490,Tire,Automotive,6,383.0,2025-07-17,Middle East,Cash
+CUST_26929,Desk Organizer,Office Supplies,1,65.89,2025-07-17,Middle East,Digital Wallet
+CUST_3810,Headphones,Electronics,1,899.88,2025-07-17,Latin America,Digital Wallet
+CUST_31205,Calculator,Office Supplies,1,53.01,2025-07-17,Latin America,Cash
+CUST_49925,Sweater,Clothing,4,298.18,2025-07-17,North America,Credit Card
+CUST_24729,Puzzle,Toys & Games,1,107.18,2025-07-17,Europe,Bank Transfer
+CUST_97638,Smartphone,Electronics,4,325.8,2025-07-16,Asia Pacific,Credit Card
+CUST_25400,Textbook,Books,1,42.68,2025-07-16,North America,Bank Transfer
+CUST_74463,Self-Help Book,Books,6,70.15,2025-07-16,North America,Debit Card
+CUST_52157,Camera,Electronics,1,786.59,2025-07-16,Asia Pacific,Cash
+CUST_34827,Hair Dryer,Health & Beauty,3,74.59,2025-07-16,Middle East,Cash
+CUST_17953,Tennis Racket,Sports & Outdoors,1,434.0,2025-07-16,Latin America,Bank Transfer
+CUST_88369,Self-Help Book,Books,6,67.16,2025-07-16,Europe,Debit Card
+CUST_19521,Sweater,Clothing,4,288.2,2025-07-16,Europe,Digital Wallet
+CUST_84508,Shoes,Clothing,3,39.78,2025-07-16,Latin America,Credit Card
+CUST_11828,Tire,Automotive,1,303.76,2025-07-16,Latin America,Debit Card
+CUST_21317,Car Parts,Automotive,3,268.53,2025-07-16,Africa,PayPal
+CUST_29687,Cookbook,Books,2,75.78,2025-07-16,Asia Pacific,PayPal
+CUST_40210,Toy Car,Toys & Games,1,141.96,2025-07-16,Middle East,Credit Card
+CUST_98197,Toy Car,Toys & Games,3,153.3,2025-07-15,Middle East,Digital Wallet
+CUST_35733,Desk Organizer,Office Supplies,2,5.37,2025-07-15,Asia Pacific,Credit Card
+CUST_73623,Face Mask,Health & Beauty,1,107.7,2025-07-15,Europe,Bank Transfer
+CUST_1863,Tennis Racket,Sports & Outdoors,2,485.43,2025-07-15,Europe,Bank Transfer
+CUST_3122,Camera,Electronics,2,1636.87,2025-07-15,Asia Pacific,PayPal
+CUST_31537,Tea,Food & Beverages,3,38.35,2025-07-15,North America,Credit Card
+CUST_51002,Bicycle,Sports & Outdoors,1,405.47,2025-07-15,Africa,Digital Wallet
+CUST_83201,Yoga Mat,Sports & Outdoors,1,292.54,2025-07-15,Latin America,Credit Card
+CUST_89963,Printer Paper,Office Supplies,1,7.04,2025-07-15,Middle East,Debit Card
+CUST_5891,Lamp,Home & Garden,1,339.51,2025-07-14,North America,Digital Wallet
+CUST_72001,Board Game,Toys & Games,3,14.77,2025-07-14,Middle East,Debit Card
+CUST_53229,Plant Pot,Home & Garden,1,52.99,2025-07-14,Middle East,Bank Transfer
+CUST_3751,Tea,Food & Beverages,2,44.55,2025-07-14,Latin America,Debit Card
+CUST_59856,Spices,Food & Beverages,2,8.44,2025-07-14,Latin America,PayPal
+CUST_19581,Perfume,Health & Beauty,2,93.98,2025-07-14,Middle East,Bank Transfer
+CUST_47887,Yoga Mat,Sports & Outdoors,3,219.82,2025-07-14,Latin America,PayPal
+CUST_75912,Shampoo,Health & Beauty,1,125.29,2025-07-14,Asia Pacific,Credit Card
+CUST_22544,Table,Home & Garden,2,145.44,2025-07-14,Latin America,Bank Transfer
+CUST_65673,Pen Set,Office Supplies,1,8.72,2025-07-14,Asia Pacific,Bank Transfer
+CUST_86123,Motor Oil,Automotive,2,827.69,2025-07-14,Middle East,Bank Transfer
+CUST_50012,Curtains,Home & Garden,3,150.79,2025-07-14,Europe,Bank Transfer
+CUST_59214,Building Blocks,Toys & Games,4,41.51,2025-07-14,Asia Pacific,Credit Card
+CUST_20893,Shampoo,Health & Beauty,3,124.81,2025-07-13,Latin America,Digital Wallet
+CUST_50729,Organic Food,Food & Beverages,1,25.76,2025-07-13,North America,Credit Card
+CUST_27750,Perfume,Health & Beauty,1,12.8,2025-07-13,Africa,Digital Wallet
+CUST_53545,Pen Set,Office Supplies,2,54.61,2025-07-13,Latin America,Debit Card
+CUST_63233,Board Game,Toys & Games,2,187.65,2025-07-13,Latin America,PayPal
+CUST_18908,Tire,Automotive,4,225.88,2025-07-13,Latin America,Credit Card
+CUST_46848,Shampoo,Health & Beauty,2,16.64,2025-07-13,Middle East,Digital Wallet
+CUST_67570,Organic Food,Food & Beverages,2,5.21,2025-07-13,Middle East,PayPal
+CUST_51296,Magazine,Books,2,52.69,2025-07-13,Middle East,Debit Card
+CUST_9495,Bicycle,Sports & Outdoors,2,83.67,2025-07-13,North America,Debit Card
+CUST_98279,Perfume,Health & Beauty,1,23.13,2025-07-13,Latin America,Bank Transfer
+CUST_5117,Headphones,Electronics,1,181.43,2025-07-13,Asia Pacific,Credit Card
+CUST_32741,Face Mask,Health & Beauty,1,79.89,2025-07-13,Africa,PayPal
+CUST_69248,Tablet,Electronics,5,992.84,2025-07-12,Asia Pacific,Debit Card
+CUST_22842,GPS Device,Automotive,1,726.13,2025-07-12,Africa,Bank Transfer
+CUST_76120,Notebook,Office Supplies,2,98.12,2025-07-12,Europe,Cash
+CUST_48123,TV,Electronics,1,1164.73,2025-07-12,Latin America,Credit Card
+CUST_1342,Car Charger,Automotive,2,154.68,2025-07-12,North America,Credit Card
+CUST_38029,Curtains,Home & Garden,2,387.01,2025-07-12,Middle East,Credit Card
+CUST_34908,Makeup Kit,Health & Beauty,4,99.12,2025-07-12,Asia Pacific,Credit Card
+CUST_47254,Motor Oil,Automotive,1,238.69,2025-07-12,North America,Credit Card
+CUST_33322,Table,Home & Garden,5,769.56,2025-07-12,North America,Cash
+CUST_13937,Board Game,Toys & Games,2,163.79,2025-07-12,North America,Digital Wallet
+CUST_80115,Shoes,Clothing,2,69.03,2025-07-12,Latin America,PayPal
+CUST_54554,Lamp,Home & Garden,1,200.36,2025-07-12,North America,PayPal
+CUST_76481,Snacks,Food & Beverages,2,14.41,2025-07-12,North America,Debit Card
+CUST_74218,Yoga Mat,Sports & Outdoors,1,235.14,2025-07-12,Asia Pacific,Credit Card
+CUST_71212,Skincare Set,Health & Beauty,2,61.15,2025-07-12,Europe,Digital Wallet
+CUST_20772,Running Shoes,Sports & Outdoors,4,292.33,2025-07-12,Africa,PayPal
+CUST_76327,Running Shoes,Sports & Outdoors,3,157.0,2025-07-12,Middle East,PayPal
+CUST_99295,Printer Paper,Office Supplies,1,14.1,2025-07-11,North America,Bank Transfer
+CUST_65985,Textbook,Books,4,60.46,2025-07-11,Middle East,Cash
+CUST_72200,Shampoo,Health & Beauty,1,30.4,2025-07-11,Africa,PayPal
+CUST_7743,Toy Car,Toys & Games,5,184.18,2025-07-11,Asia Pacific,Cash
+CUST_1055,Car Charger,Automotive,1,425.4,2025-07-11,Asia Pacific,Debit Card
+CUST_5910,GPS Device,Automotive,1,620.69,2025-07-11,Europe,PayPal
+CUST_47011,Printer Paper,Office Supplies,2,45.6,2025-07-11,Africa,Credit Card
+CUST_64025,Biography,Books,2,49.35,2025-07-11,North America,PayPal
+CUST_76191,Toy Car,,1,26.83,2025-07-11,Middle East,Debit Card
+CUST_22177,Car Charger,Automotive,5,871.41,2025-07-11,Middle East,Cash
+CUST_89756,Doll,Toys & Games,1,128.94,2025-07-11,Latin America,Debit Card
+CUST_87920,Car Charger,Automotive,1,160.07,2025-07-11,Europe,Digital Wallet
+CUST_50628,Tea,,2,29.77,2025-07-11,Latin America,Debit Card
+CUST_54504,Car Parts,Automotive,1,959.58,2025-07-11,Europe,Credit Card
+CUST_15097,Magazine,Books,2,32.31,2025-07-11,Middle East,Bank Transfer
+CUST_91405,Jacket,Clothing,1,164.78,2025-07-11,Africa,Cash
+CUST_86649,Car Charger,Automotive,1,82.55,2025-07-10,Africa,Credit Card
+cust_14705,Running Shoes,Sports & Outdoors,1,30.45,2025-07-10,Asia Pacific,PayPal
+CUST_97425,Pen Set,Office Supplies,2,57.43,2025-07-10,Middle East,
+CUST_62106,Shorts,Clothing,2,207.74,2025-07-10,Africa,Debit Card
+CUST_41940,T-Shirt,Clothing,5,222.08,2025-07-10,North America,Bank Transfer
+CUST_43200,Headphones,Electronics,3,1014.7,2025-07-10,Africa,PayPal
+CUST_54419,Board Game,Toys & Games,8,18.25,2025-07-10,Latin America,Cash
+CUST_2569,Vitamins,Health & Beauty,7,23.78,2025-07-10,Asia Pacific,Cash
+CUST_17883,Kitchen Set,Home & Garden,4,461.85,2025-07-10,North America,Bank Transfer
+CUST_45608,Bicycle,Sports & Outdoors,1,402.96,2025-07-10,Asia Pacific,Cash
+CUST_31621,Puzzle,Toys & Games,6,73.05,2025-07-10,North America,Bank Transfer
+CUST_9479,Pen Set,Office Supplies,1,65.61,2025-07-10,Latin America,Digital Wallet
+CUST_59888,Board Game,Toys & Games,4,12.7,2025-07-10,Latin America,Digital Wallet
+CUST_48333,Car Parts,Automotive,3,485.15,2025-07-09,Latin America,Cash
+CUST_6393,Chair,Home & Garden,1,209.38,2025-07-09,Asia Pacific,Cash
+CUST_24121,Children Book,Books,5,40.17,2025-07-09,Asia Pacific,Debit Card
+CUST_41095,Organic Food,Food & Beverages,1,43.59,2025-07-09,Africa,Credit Card
+CUST_89784,Gym Equipment,Sports & Outdoors,3,374.23,2025-07-09,Europe,Credit Card
+CUST_61911,Gym Equipment,Sports & Outdoors,3,21.01,2025-07-09,Asia Pacific,Credit Card
+CUST_19818,Table,Home & Garden,5,453.75,2025-07-09,Middle East,Credit Card
+CUST_15756,Gaming Console,Electronics,1,390.43,2025-07-09,North America,Digital Wallet
+CUST_72964,Car Accessories,Automotive,1,317.49,2025-07-09,Europe,Cash
+CUST_87161,Shampoo,Health & Beauty,1,131.01,2025-07-09,North America,Cash
+CUST_54083,Tennis Racket,Sports & Outdoors,1,124.06,2025-07-09,Africa,PayPal
+CUST_69393,Printer Paper,Office Supplies,2,89.12,2025-07-09,Africa,Bank Transfer
+CUST_56490,Motor Oil,Automotive,2,291.75,2025-07-09,North America,Digital Wallet
+CUST_75100,Pen Set,Office Supplies,5,17.25,2025-07-09,North America,PayPal
+CUST_64618,Shorts,Clothing,3,60.01,2025-07-09,Asia Pacific,Debit Card
+CUST_10760,Motor Oil,Automotive,2,983.95,2025-07-09,Europe,Debit Card
+CUST_17291,Coffee,Food & Beverages,1,30.99,2025-07-09,North America,PayPal
+CUST_58186,Pen Set,Office Supplies,5,21.84,2025-07-09,Asia Pacific,Digital Wallet
+CUST_32328,Tennis Racket,Sports & Outdoors,2,319.48,2025-07-09,Latin America,Digital Wallet
+CUST_36519,Jeans,,1,230.9,2025-07-09,Africa,Credit Card
+CUST_58269,Backpack,Sports & Outdoors,1,277.31,2025-07-08,Asia Pacific,Digital Wallet
+CUST_3635,Car Charger,Automotive,1,56.02,2025-07-08,Latin America,Digital Wallet
+CUST_64833,TV,Electronics,3,386.81,2025-07-08,Middle East,PayPal
+CUST_89396,Puzzle,Toys & Games,1,24.07,2025-07-08,Latin America,Digital Wallet
+CUST_26755,Stapler,Office Supplies,2,10.85,2025-07-08,North America,PayPal
+CUST_50255,Shorts,Clothing,1,182.82,2025-07-08,Asia Pacific,Digital Wallet
+CUST_58269,Backpack,Sports & Outdoors,1,277.31,2025-07-08,Asia Pacific,Digital Wallet
+CUST_84521,Jeans,Clothing,3,159.05,2025-07-08,Latin America,Credit Card
+CUST_17573,Board Game,Toys & Games,1,125.91,2025-07-08,North America,Cash
+CUST_44507,Calculator,Office Supplies,2,4.33,2025-07-08,Middle East,PayPal
+CUST_88477,Kitchen Set,Home & Garden,2,691.56,2025-07-08,North America,Credit Card
+CUST_50255,Shorts,Clothing,1,182.82,2025-07-08,Asia Pacific,Digital Wallet
+CUST_59184,Bedding,Home & Garden,1,559.61,2025-07-08,Europe,Bank Transfer
+CUST_82045,Camera,Electronics,1,1854.32,2025-07-08,Asia Pacific,Cash
+CUST_75995,Car Accessories,Automotive,5,808.72,2025-07-07,Latin America,Debit Card
+CUST_95521,Notebook,Office Supplies,4,28.16,2025-07-07,Middle East,Digital Wallet
+CUST_38316,Puzzle,Toys & Games,6,112.82,2025-07-07,Middle East,PayPal
+CUST_45801,Fiction Novel,Books,2,76.41,2025-07-07,North America,Digital Wallet
+CUST_92732,Energy Drink,Food & Beverages,3,33.29,2025-07-07,Asia Pacific,Digital Wallet
+CUST_30095,Calculator,Office Supplies,1,81.68,2025-07-07,Asia Pacific,PayPal
+CUST_43065,Running Shoes,Sports & Outdoors,3,347.62,2025-07-07,Latin America,Credit Card
+CUST_40373,Doll,Toys & Games,1,22.12,2025-07-07,Africa,Digital Wallet
+CUST_30016,Perfume,Health & Beauty,3,134.23,2025-07-07,Africa,Cash
+CUST_75184,Table,Home & Garden,1,277.07,2025-07-07,Latin America,Debit Card
+CUST_60809,Children Book,Books,9,71.67,2025-07-07,Asia Pacific,Digital Wallet
+CUST_27262,Water Bottle,Sports & Outdoors,4,405.75,2025-07-07,Middle East,Bank Transfer
+CUST_45974,Hat,Clothing,1,115.26,2025-07-07,Latin America,Credit Card
+CUST_33540,TV,Electronics,1,487.8,2025-07-06,Latin America,Digital Wallet
+CUST_30958,TV,Electronics,1,284.91,2025-07-06,North America,Credit Card
+CUST_68685,Tennis Racket,Sports & Outdoors,2,56.54,2025-07-06,Middle East,Debit Card
+CUST_25888,Camera,Electronics,4,210.04,2025-07-06,North America,Bank Transfer
+CUST_58910,Vitamins,Health & Beauty,2,60.16,2025-07-06,Latin America,Cash
+CUST_76682,Printer Paper,Office Supplies,5,19.11,2025-07-06,Asia Pacific,Credit Card
+CUST_8263,Chair,Home & Garden,4,360.28,2025-07-06,North America,Cash
+CUST_42687,Headphones,Electronics,2,240.52,2025-07-06,Asia Pacific,Debit Card
+CUST_60777,Camera,Electronics,3,1859.1,2025-07-06,Middle East,Debit Card
+CUST_69892,T-Shirt,Clothing,1,33.73,2025-07-06,Africa,Bank Transfer
+CUST_17155,Doll,Toys & Games,6,16.1,2025-07-06,Latin America,Cash
+CUST_76275,Fiction Novel,Books,696,45.07,2025-07-06,Europe,Credit Card
+CUST_15486,T-Shirt,Clothing,2,194.27,2025-07-06,Europe,Credit Card
+CUST_46712,Tire,Automotive,2,536.49,2025-07-06,Latin America,Debit Card
+CUST_61142,Gym Equipment,Sports & Outdoors,5,183.04,2025-07-06,Africa,Bank Transfer
+CUST_92269,Printer Paper,Office Supplies,1,89.74,2025-07-05,Middle East,PayPal
+CUST_36039,Gaming Console,Electronics,1,1830.09,2025-07-05,Middle East,PayPal
+CUST_82919,Makeup Kit,Health & Beauty,1,68.11,2025-07-05,North America,Credit Card
+CUST_78728,Curtains,Home & Garden,6,159.45,2025-07-05,Asia Pacific,PayPal
+CUST_44642,Car Parts,Automotive,3,899.75,2025-07-05,North America,PayPal
+CUST_45540,Car Parts,Automotive,2,275.0,2025-07-05,Europe,Debit Card
+CUST_95178,Tablet,Electronics,1,1669.37,2025-07-05,Latin America,Bank Transfer
+CUST_64452,Car Parts,Automotive,2,341.87,2025-07-05,Middle East,Bank Transfer
+CUST_86229,Energy Drink,Food & Beverages,3,21.72,2025-07-05,Asia Pacific,Debit Card
+CUST_19702,Tire,Automotive,3,225.65,2025-07-05,Latin America,Credit Card
+CUST_59827,Motor Oil,Automotive,2,102.79,2025-07-04,Africa,PayPal
+CUST_27424,Spices,Food & Beverages,2,39.58,2025-07-04,Latin America,Cash
+CUST_42422,Chair,Home & Garden,3,175.94,2025-07-04,Middle East,Bank Transfer
+CUST_10898,Tea,Food & Beverages,1,22.87,2025-07-04,Asia Pacific,Bank Transfer
+CUST_2103,Organic Food,Food & Beverages,1,19.2,2025-07-04,North America,Digital Wallet
+CUST_69920,Tire,Automotive,2,686.83,2025-07-04,Middle East,Digital Wallet
+CUST_42902,Camera,Electronics,4,1198.93,2025-07-04,Asia Pacific,PayPal
+CUST_63611,Vitamins,Health & Beauty,1,92.82,2025-07-04,Europe,PayPal
+CUST_69790,Hair Dryer,Health & Beauty,1,11.61,2025-07-04,Middle East,Debit Card
+CUST_59868,TV,Electronics,2,131.51,2025-07-04,Europe,Digital Wallet
+CUST_42482,Biography,Books,4,52.62,2025-07-04,Asia Pacific,Cash
+CUST_60331,Video Game,Toys & Games,5,71.97,2025-07-03,Europe,Cash
+CUST_52295,Pen Set,Office Supplies,2,21.47,2025-07-03,Asia Pacific,Digital Wallet
+CUST_18956,Laptop,Electronics,1,251.23,2025-07-03,Europe,Bank Transfer
+CUST_92603,Calculator,Office Supplies,10,34.53,2025-07-03,Middle East,Debit Card
+CUST_62257,Puzzle,Toys & Games,1,180.47,2025-07-03,Europe,Digital Wallet
+CUST_18659,Bedding,Home & Garden,1,104.94,2025-07-03,Europe,Cash
+CUST_63750,Building Blocks,Toys & Games,1,51.23,2025-07-03,Middle East,Digital Wallet
+CUST_3382,Running Shoes,Sports & Outdoors,2,49.26,2025-07-03,Middle East,Cash
+CUST_60867,Shoes,Clothing,1,198.64,2025-07-03,Asia Pacific,PayPal
+CUST_35985,Tennis Racket,Sports & Outdoors,1,237.0,2025-07-03,North America,Debit Card
+CUST_61302,Makeup Kit,Health & Beauty,4,105.78,2025-07-03,Asia Pacific,Cash
+CUST_55209,Notebook,Office Supplies,1,13.92,2025-07-03,Latin America,PayPal
+CUST_79644,Jacket,Clothing,2,172.72,2025-07-03,Africa,Cash
+CUST_15312,Tennis Racket,Sports & Outdoors,1,436.07,2025-07-03,Middle East,Digital Wallet
+CUST_53385,Pen Set,Office Supplies,2,4.67,2025-07-03,Africa,Digital Wallet
+CUST_71658,Tire,Automotive,6,80.25,2025-07-03,Africa,Bank Transfer
+CUST_8889,Fiction Novel,Books,1,72.87,2025-07-03,North America,Digital Wallet
+CUST_41073,Sofa,Home & Garden,1,674.05,2025-07-03,Asia Pacific,PayPal
+CUST_58109,Car Charger,Automotive,5,890.84,2025-07-03,North America,Digital Wallet
+CUST_84681,Running Shoes,Sports & Outdoors,6,114.12,2025-07-03,Latin America,Credit Card
+CUST_98553,Hat,Clothing,3,244.04,2025-07-03,Europe,Digital Wallet
+CUST_56899,Bedding,Home & Garden,1,450.69,2025-07-02,Middle East,Credit Card
+CUST_20864,GPS Device,Automotive,2,554.27,2025-07-02,Latin America,PayPal
+CUST_4151,Doll,Toys & Games,2,141.16,2025-07-02,North America,Bank Transfer
+CUST_76185,Tablet,Electronics,1,693.87,2025-07-02,North America,Debit Card
+CUST_20864,GPS Device,Automotive,2,554.27,2025-07-02,Latin America,PayPal
+CUST_37822,Pen Set,Office Supplies,1,5.84,2025-07-02,North America,Bank Transfer
+CUST_32986,Video Game,Toys & Games,1,163.7,2025-07-02,Middle East,Bank Transfer
+CUST_88107,Camera,Electronics,4,83.39,2025-07-02,Asia Pacific,Digital Wallet
+CUST_52067,Face Mask,Health & Beauty,9,15.0,2025-07-02,Europe,Digital Wallet
+CUST_98488,Action Figure,Toys & Games,1,161.14,2025-07-02,Africa,Bank Transfer
+CUST_56636,Car Charger,Automotive,2,852.01,2025-07-02,Middle East,Digital Wallet
+CUST_12879,Shoes,Clothing,1,130.63,2025-07-02,Middle East,Digital Wallet
+CUST_95043,Stapler,Office Supplies,1,23.4,2025-07-01,Asia Pacific,Credit Card
+CUST_78491,Gym Equipment,Sports & Outdoors,3,447.7,2025-07-01,Africa,Digital Wallet
+CUST_19690,Backpack,Sports & Outdoors,2,82.31,2025-07-01,Europe,Digital Wallet
+CUST_42561,Face Mask,Health & Beauty,1,83.57,2025-07-01,North America,Credit Card
+CUST_51910,Self-Help Book,Books,1,36.2,2025-07-01,Europe,Debit Card
+CUST_83159,Skincare Set,Health & Beauty,2,86.1,2025-07-01,Africa,PayPal
+CUST_15474,Smartphone,Electronics,3,1359.68,2025-07-01,Middle East,Digital Wallet
+CUST_60075,Stapler,Office Supplies,1,85.9,2025-07-01,Africa,PayPal
+CUST_53184,Camera,Electronics,2,1515.77,2025-07-01,Middle East,Debit Card
+CUST_51525,Backpack,Sports & Outdoors,10,217.78,2025-07-01,Europe,PayPal
+CUST_43884,Doll,Toys & Games,1,31.94,2025-07-01,Africa,Debit Card
+CUST_70713,Water Bottle,Sports & Outdoors,3,152.0,2025-06-30,North America,Credit Card
+CUST_83066,Perfume,Health & Beauty,1,15.72,2025-06-30,Europe,Cash
+CUST_55387,Table,Home & Garden,1,239.09,2025-06-30,Asia Pacific,Cash
+CUST_21701,Camera,Electronics,2,737.38,2025-06-30,Latin America,Bank Transfer
+CUST_1853,Tennis Racket,Sports & Outdoors,5,150.82,2025-06-30,Europe,Cash
+CUST_59224,Coffee,Food & Beverages,1,14.71,2025-06-30,Africa,Bank Transfer
+CUST_37261,Makeup Kit,Health & Beauty,1,35.34,2025-06-30,Middle East,PayPal
+CUST_4148,T-Shirt,Clothing,1,151.79,2025-06-30,Middle East,Digital Wallet
+CUST_86540,Video Game,Toys & Games,2,73.25,2025-06-30,Asia Pacific,Credit Card
+CUST_7544,Camera,Electronics,1,1846.21,2025-06-30,North America,Cash
