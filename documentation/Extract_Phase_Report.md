@@ -2,19 +2,16 @@
 
 **DSA 2040A - Data Warehousing & Mining Mid Semester Exam**
 
-**Date:** October 23, 2025  
-**Phase:** Extract (20 Marks)  
-**Status:** ✅ Completed Successfully
 
 ---
 
-## 📋 Executive Summary
+##  Executive Summary
 
 The Extract phase successfully processed and validated two datasets containing e-commerce transaction data. A total of **11,557 records** were extracted, profiled, and integrated, with comprehensive data quality assessment identifying three major issues requiring attention in the transformation phase.
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 ### Raw Data Analysis
 - **Records:** 10,050 rows × 8 columns
@@ -33,12 +30,12 @@ The Extract phase successfully processed and validated two datasets containing e
 ### Combined Dataset
 - **Total Records:** 11,557 rows × 8 columns
 - **Integration Method:** Append incremental to raw data
-- **Validation:** ✅ Row count matches expected (10,050 + 1,507)
-- **Schema Compatibility:** ✅ All columns match perfectly
+- **Validation:**  Row count matches expected (10,050 + 1,507)
+- **Schema Compatibility:**  All columns match perfectly
 
 ---
 
-## 🔍 Data Quality Assessment
+##  Data Quality Assessment
 
 ### Issue #1: Missing Values (Nulls)
 **Severity:** Medium | **Impact:** Data Completeness
@@ -86,7 +83,7 @@ The Extract phase successfully processed and validated two datasets containing e
 
 ---
 
-## 📈 Statistical Insights
+##  Statistical Insights
 
 ### Data Distribution Summary:
 - **Average Quantity per Order:** 2.98 units
@@ -117,17 +114,17 @@ The Extract phase successfully processed and validated two datasets containing e
 
 ---
 
-## 🔄 Data Integration Process
+##  Data Integration Process
 
 ### Integration Strategy
 **Method:** Append incremental data to raw data  
 **Rationale:** Incremental dataset represents newer transactions that should be added to create a complete transaction history.
 
 ### Integration Results
-- ✅ **Schema Compatibility:** All columns match between datasets
-- ✅ **Row Count Validation:** Combined total matches expected (11,557)
-- ⚠️ **Overlap Warning:** 99.5% of incremental data overlaps with raw data
-- ✅ **Date Range Validation:** Continuous 2-year transaction history
+-  **Schema Compatibility:** All columns match between datasets
+-  **Row Count Validation:** Combined total matches expected (11,557)
+-  **Overlap Warning:** 99.5% of incremental data overlaps with raw data
+-  **Date Range Validation:** Continuous 2-year transaction history
 
 ### Files Generated
 1. `data/validated_raw_data.csv` - Original raw dataset
@@ -137,7 +134,7 @@ The Extract phase successfully processed and validated two datasets containing e
 
 ---
 
-## 🎯 Key Findings & Recommendations
+##  Key Findings & Recommendations
 
 ### Critical Findings:
 1. **High Data Overlap:** 99.5% overlap between raw and incremental suggests incremental data may not be truly "new" records
@@ -163,18 +160,18 @@ The Extract phase successfully processed and validated two datasets containing e
 
 ---
 
-## ✅ Extract Phase Completion Checklist
+##  Extract Phase Completion Checklist
 
-- [x] **Data Loading:** Both datasets loaded successfully with error handling
-- [x] **Data Profiling:** Complete .head(), .info(), .describe() analysis performed
-- [x] **Quality Assessment:** 3+ major data quality issues identified and documented
-- [x] **Data Integration:** Successful merge with validation and overlap analysis
-- [x] **Data Storage:** Validated datasets saved with comprehensive quality report
-- [x] **Documentation:** Detailed findings documented with visualizations
+-  **Data Loading:** Both datasets loaded successfully with error handling
+- **Data Profiling:** Complete .head(), .info(), .describe() analysis performed
+-  **Quality Assessment:** 3+ major data quality issues identified and documented
+-  **Data Integration:** Successful merge with validation and overlap analysis
+-  **Data Storage:** Validated datasets saved with comprehensive quality report
+-  **Documentation:** Detailed findings documented with visualizations
 
 ---
 
-## 📊 Quality Metrics Summary
+##  Quality Metrics Summary
 
 | Metric                      | Value         |
 | --------------------------- | ------------- |
@@ -188,7 +185,7 @@ The Extract phase successfully processed and validated two datasets containing e
 
 ---
 
-## 🔄 Next Phase Preparation
+##  Next Phase Preparation
 
 **Transform Phase Requirements:**
 - Address all identified data quality issues
@@ -206,4 +203,4 @@ The Extract phase successfully processed and validated two datasets containing e
 ---
 
 **Report Generated:** October 23, 2025, 3:09 PM  
-**Phase Status:** ✅ Extract Complete - Ready for Transform Phase
+**Phase Status:**  Extract Complete - Ready for Transform Phase

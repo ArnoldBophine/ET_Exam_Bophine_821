@@ -1,2 +1,2 @@
 extraction_timestamp,raw_data_rows,incremental_data_rows,combined_data_rows,missing_values_raw,missing_values_incremental,duplicates_raw,duplicates_incremental,date_range_start,date_range_end
-2025-10-23 15:09:55.140367,10050,1507,11557,201,25,48,7,2023-10-24,2025-10-22
+2025-10-23 17:51:06.599254,10050,1507,11557,201,25,48,7,2023-10-24,2025-10-22
